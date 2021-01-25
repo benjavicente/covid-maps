@@ -1,0 +1,25 @@
+{
+  "files.associations": {
+    "*.min.js": "text",
+    "*.topo.json": "text",
+  },
+
+  "javascript.preferences.quoteStyle": "double",
+  "javascript.format.semicolons": "remove",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+  },
+
+  "python.terminal.executeInFileDir": false,
+
+  "julia.executablePath": "",
+
+  "json.format.enable": false,
+  "json.schemaDownload.enable": true,
+  "json.schemas": [
+    {
+      "fileMatch": ["*.vl.json"],
+      "url": "https://vega.github.io/schema/vega-lite/v4.json"
+    }
+  ]
+}

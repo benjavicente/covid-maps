@@ -1,0 +1,47 @@
+* {
+  box-sizing: border-box;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+  background: #eee;
+  padding: 1em 0.8em;
+  margin: 0;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+#content {
+  background: white;
+  max-width: 1200px;
+  overflow-x: hidden;
+  text-align: center;
+}
+
+h1 {
+  color: #C00;
+}
+
+.x-sc{
+  overflow-x: scroll;
+}
+
+/* Vega */
+
+div#map.has-actions {
+  padding: 0;
+}
+
+div#map.vega-embed summary {
+  top: 30px
+}
+div#map.vega-embed .vega-actions {
+  top: 65px;
+  right: 5px;
+}
+div#map.vega-embed .vega-actions::before,
+div#map.vega-embed .vega-actions::after {
+  right: 2px;
+}
+

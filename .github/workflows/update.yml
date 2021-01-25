@@ -1,0 +1,18 @@
+name: Update index
+
+on:
+  schedule:
+    - cron: '0 13 * * 0'
+
+jobs:
+  update:
+    runs-on: ubuntu-lastest
+    steps:
+      - uses: actions/cheackout@v2
+      - uses: julia-actions/setup-julia@v1
+        with:
+        version: '1.5.2'
+      - run:
+          'julia src/make_datasets.jl'
+      - uses: EndBug/add-and-commit@v7
+        message: 'updated datasets'

@@ -1,0 +1,91 @@
+{
+  "data": {
+    "name": "map",
+    "url": "data/maps/comunas_sin_simbolos.topo.json",
+    "format": {"type": "topojson", "feature": "comunas"}
+  },
+  "mark": {
+    "type": "geoshape",
+    "stroke": "black",
+    "strokeWidth": 0.2
+  },
+  "width": 400,
+  "height": 1200,
+  "transform": [
+    {"calculate": "datum.properties.NOM_COM", "as": "nombre"},
+    {"calculate": "datum.properties.REGION", "as": "region"},
+    {"calculate": "datum.properties.NOM_COM_", "as": "n"},
+    {
+      "lookup": "n",
+      "from": {
+        "key": "nombre",
+        "data": {"url": "data/output/poblacion_por_comuna.csv"},
+        "fields": ["poblacion"]
+      }
+    },
+    {
+      "lookup": "n",
+      "from": {
+        "key": "nombre",
+        "data": {"url": "data/output/ultimos_casos_activos_comunas.csv"},
+        "fields": ["casos_activos"]
+      }
+    },
+    {
+      "lookup": "n",
+      "from": {
+        "key": "nombre",
+        "data": {"url": "data/output/ultima_positividad_comunas.csv"},
+        "fields": ["positividad"]
+      }
+    },
+    {
+      "lookup": "n",
+      "from": {
+        "key": "nombre",
+        "data": {"url": "data/output/ultimos_casos_incremental_comunas.csv"},
+        "fields": ["casos_totales"]
+      }
+    },
+    {
+      "lookup": "n",
+      "from": {
+        "key": "nombre",
+        "data": {"url": "data/output/ultimo_plan_paso_a_paso.csv"},
+        "fields": ["paso_a_paso"]
+      }
+    },
+    {
+      "calculate": "round(10000 * datum.casos_activos / datum.poblacion)",
+      "as": "casos_activos_pobl"
+    },
+    {
+      "calculate": "round(10000 * datum.casos_totales / datum.poblacion)",
+      "as": "casos_totales_pobl"
+    }
+  ],
+  "encoding": {
+    "fill": {
+      "field": "casos_totales_pobl",
+      "type": "quantitative",
+      "title": "Casos totales por 10mil hab",
+      "scale": {
+        "type": "log",
+        "scheme": {
+          "name": "orangered"
+        }
+      }
+    },
+    "tooltip": [
+      {"title": "Region", "field": "region"},
+      {"title": "Comuna", "field": "nombre"},
+      {"title": "Población", "field": "poblacion"},
+      {"title": "Casos activos", "field": "casos_activos"},
+      {"title": "Casos activos 10mil hab.", "field": "casos_activos_pobl"},
+      {"title": "Casos totales", "field": "casos_totales"},
+      {"title": "Casos totales 10mil hab", "field": "casos_totales_pobl"},
+      {"title": "Positividad", "field": "positividad"},
+      {"title": "Paso a paso", "field": "paso_a_paso"}
+    ]
+  }
+}

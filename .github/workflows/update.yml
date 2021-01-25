@@ -7,7 +7,7 @@ on:
 
 jobs:
   update:
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-latest
     name: Updates the files
     steps:
       - uses: actions/cheackout@v2

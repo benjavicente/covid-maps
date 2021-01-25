@@ -48,7 +48,7 @@
       }
     },
     {
-      "lookup": "n",
+      "lookup": "nombre",
       "from": {
         "key": "nombre",
         "data": {"url": "data/output/ultimo_plan_paso_a_paso.csv"},

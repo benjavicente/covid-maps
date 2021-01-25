@@ -2,11 +2,12 @@
 Limpieza da datos para los plots
 
 El objetivo de este código es obtener y ordenar
-datos de COVID19 del ministerio de ciencia
+datos de COVID19 del ministerio de ciencias.
 
 Cada archivo se ordena por keys principales
 (por ejemplo, nombre+codigo comuna o region)
 y sets de datos del mismo tipo (como casos diarios).
+
 Muchos valores se repiten, como población y region,
 porlo que son omitidos en los archivos.
 =#
@@ -206,7 +207,7 @@ function make_step_by_step()
 end
 
 
-begin
+@time begin
     # Download
     update_datasets!()
     # CleanUp

@@ -1,12 +1,14 @@
-name: Update index
+name: Update data
 
 on:
   schedule:
-    - cron: '0 13 * * 0'
+    - cron: '0 20 * * 1'
+  workflow_dispatch:
 
 jobs:
   update:
-    runs-on: ubuntu-lastest
+    runs-on: ubuntu-20.04
+    name: Updates the files
     steps:
       - uses: actions/cheackout@v2
       - uses: julia-actions/setup-julia@v1

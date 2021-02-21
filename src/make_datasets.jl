@@ -19,6 +19,7 @@ porlo que son omitidos en los archivos.
 
 
 begin
+    # Esto está horrible
     using Pkg
     try
         using DataFrames
@@ -32,7 +33,12 @@ begin
         Pkg.add("CSV")
         using  CSV
     end
-    using FilePaths
+    try
+        using  FilePaths
+    catch ArgumentError
+        Pkg.add("FilePaths")
+        using  FilePaths
+    end
 end
 
 

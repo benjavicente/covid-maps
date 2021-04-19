@@ -9,7 +9,7 @@ codigo,nombre,paso_a_paso
 1404,Huara,2
 1101,Iquique,1
 1405,Pica,2
-1401,Pozo Almonte,2
+1401,Pozo Almonte,1
 2101,Antofagasta,1
 2201,Calama,1
 2302,Maria Elena,2
@@ -31,12 +31,12 @@ codigo,nombre,paso_a_paso
 4103,Andacollo,2
 4202,Canela,3
 4302,Combarbalá,2
-4102,Coquimbo,1
+4102,Coquimbo,2
 4201,Illapel,1
 4104,La Higuera,2
-4101,La Serena,1
-4203,Los Vilos,1
-4303,Monte Patria,1
+4101,La Serena,2
+4203,Los Vilos,2
+4303,Monte Patria,2
 4301,Ovalle,1
 4105,Paiguano,1
 4304,Punitaqui,1
@@ -152,9 +152,9 @@ codigo,nombre,paso_a_paso
 6205,Navidad,2
 6111,Olivar,1
 6306,Palmilla,1
-6206,Paredones,3
+6206,Paredones,2
 6307,Peralillo,1
-6112,Peumo,1
+6112,Peumo,2
 6113,Pichidegua,1
 6201,Pichilemu,1
 6308,Placilla,1
@@ -165,7 +165,7 @@ codigo,nombre,paso_a_paso
 6116,Requínoa,1
 6301,San Fernando,1
 6117,San Vicente,1
-6310,Santa Cruz,1
+6310,Santa Cruz,2
 7201,Cauquenes,1
 7202,Chanco,1
 7402,Colbún,1
@@ -184,7 +184,7 @@ codigo,nombre,paso_a_paso
 7203,Pelluhue,2
 7107,Pencahue,2
 7305,Rauco,1
-7405,Retiro,2
+7405,Retiro,1
 7108,Río Claro,1
 7306,Romeral,1
 7307,Sagrada Familia,1
@@ -208,7 +208,7 @@ codigo,nombre,paso_a_paso
 16105,Pemuco,2
 16106,Pinto,1
 16205,Portezuelo,2
-16107,Quillón,1
+16107,Quillón,2
 16201,Quirihue,2
 16206,Ránquil,2
 16301,San Carlos,1
@@ -264,7 +264,7 @@ codigo,nombre,paso_a_paso
 9108,Lautaro,1
 9109,Loncoche,1
 9205,Lonquimay,2
-9206,Los Sauces,1
+9206,Los Sauces,2
 9207,Lumaco,1
 9110,Melipeuco,1
 9111,Nueva Imperial,1
@@ -287,7 +287,7 @@ codigo,nombre,paso_a_paso
 14201,La Unión,1
 14203,Lago Ranco,1
 14103,Lanco,1
-14104,Los Lagos,1
+14104,Los Lagos,2
 14105,Máfil,1
 14106,Mariquina,1
 14107,Paillaco,1

@@ -18,26 +18,26 @@ codigo,nombre,paso_a_paso
 2203,San Pedro de Atacama,3
 2103,Sierra Gorda,3
 2104,Taltal,2
-2301,Tocopilla,2
+2301,Tocopilla,3
 3302,Alto del Carmen,2
 3102,Caldera,1
 3201,Chañaral,1
 3101,Copiapó,1
 3202,Diego de Almagro,1
 3303,Freirina,3
-3304,Huasco,2
+3304,Huasco,3
 3103,Tierra Amarilla,2
 3301,Vallenar,1
-4103,Andacollo,2
-4202,Canela,3
-4302,Combarbalá,2
+4103,Andacollo,3
+4202,Canela,2
+4302,Combarbalá,3
 4102,Coquimbo,2
 4201,Illapel,1
 4104,La Higuera,2
 4101,La Serena,2
 4203,Los Vilos,2
 4303,Monte Patria,2
-4301,Ovalle,1
+4301,Ovalle,2
 4105,Paiguano,1
 4304,Punitaqui,1
 4305,Río Hurtado,3
@@ -156,7 +156,7 @@ codigo,nombre,paso_a_paso
 6307,Peralillo,1
 6112,Peumo,2
 6113,Pichidegua,1
-6201,Pichilemu,1
+6201,Pichilemu,2
 6308,Placilla,1
 6309,Pumanque,2
 6114,Quinta de Tilcoco,2
@@ -174,7 +174,7 @@ codigo,nombre,paso_a_paso
 7301,Curicó,1
 7104,Empedrado,2
 7302,Hualañé,1
-7303,Licantén,3
+7303,Licantén,2
 7401,Linares,1
 7403,Longaví,1
 7105,Maule,1
@@ -182,7 +182,7 @@ codigo,nombre,paso_a_paso
 7404,Parral,1
 7106,Pelarco,1
 7203,Pelluhue,2
-7107,Pencahue,2
+7107,Pencahue,3
 7305,Rauco,1
 7405,Retiro,1
 7108,Río Claro,1
@@ -193,7 +193,7 @@ codigo,nombre,paso_a_paso
 7110,San Rafael,1
 7101,Talca,1
 7308,Teno,1
-7309,Vichuquén,3
+7309,Vichuquén,2
 7407,Villa Alegre,1
 7408,Yerbas Buenas,1
 16102,Bulnes,2
@@ -213,15 +213,15 @@ codigo,nombre,paso_a_paso
 16206,Ránquil,2
 16301,San Carlos,1
 16304,San Fabián,1
-16108,San Ignacio,1
+16108,San Ignacio,2
 16305,San Nicolás,1
-16207,Treguaco,1
+16207,Treguaco,2
 16109,Yungay,1
 8314,Alto Biobío,2
 8302,Antuco,2
 8202,Arauco,1
 8303,Cabrero,1
-8203,Cañete,1
+8203,Cañete,2
 8103,Chiguayante,1
 8101,Concepción,1
 8204,Contulmo,3
@@ -294,7 +294,7 @@ codigo,nombre,paso_a_paso
 14108,Panguipulli,1
 14204,Río Bueno,1
 14101,Valdivia,1
-10202,Ancud,2
+10202,Ancud,3
 10102,Calbuco,2
 10201,Castro,2
 10401,Chaitén,3
@@ -305,14 +305,14 @@ codigo,nombre,paso_a_paso
 10104,Fresia,3
 10105,Frutillar,1
 10402,Futaleufú,3
-10403,Hualaihué,1
-10107,Llanquihue,2
+10403,Hualaihué,2
+10107,Llanquihue,3
 10106,Los Muermos,1
 10108,Maullín,2
 10301,Osorno,1
 10404,Palena,3
 10101,Puerto Montt,2
-10302,Puerto Octay,1
+10302,Puerto Octay,2
 10109,Puerto Varas,2
 10206,Puqueldón,2
 10303,Purranque,1
@@ -324,7 +324,7 @@ codigo,nombre,paso_a_paso
 10305,Río Negro,1
 10306,San Juan de la Costa,1
 10307,San Pablo,1
-11201,Aisén,4
+11201,Aisén,3
 11401,Chile Chico,2
 11202,Cisnes,2
 11301,Cochrane,4

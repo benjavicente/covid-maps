@@ -6,22 +6,22 @@ codigo,nombre,paso_a_paso
 1107,Alto Hospicio,1
 1402,Camiña,2
 1403,Colchane,3
-1404,Huara,2
+1404,Huara,3
 1101,Iquique,1
 1405,Pica,2
 1401,Pozo Almonte,1
 2101,Antofagasta,2
-2201,Calama,1
+2201,Calama,2
 2302,Maria Elena,2
-2102,Mejillones,2
-2202,Ollagüe,3
+2102,Mejillones,3
+2202,Ollagüe,4
 2203,San Pedro de Atacama,3
 2103,Sierra Gorda,3
 2104,Taltal,2
 2301,Tocopilla,3
-3302,Alto del Carmen,2
-3102,Caldera,1
-3201,Chañaral,2
+3302,Alto del Carmen,3
+3102,Caldera,2
+3201,Chañaral,1
 3101,Copiapó,1
 3202,Diego de Almagro,2
 3303,Freirina,2
@@ -32,25 +32,25 @@ codigo,nombre,paso_a_paso
 4202,Canela,2
 4302,Combarbalá,3
 4102,Coquimbo,2
-4201,Illapel,1
-4104,La Higuera,2
+4201,Illapel,2
+4104,La Higuera,3
 4101,La Serena,2
 4203,Los Vilos,2
-4303,Monte Patria,2
+4303,Monte Patria,3
 4301,Ovalle,2
-4105,Paiguano,2
+4105,Paiguano,3
 4304,Punitaqui,2
 4305,Río Hurtado,3
 4204,Salamanca,1
-4106,Vicuña,2
+4106,Vicuña,3
 5602,Algarrobo,1
 5402,Cabildo,2
 5502,Calera,1
 5302,Calle Larga,1
-5603,Cartagena,1
-5102,Casablanca,1
+5603,Cartagena,2
+5102,Casablanca,2
 5702,Catemu,2
-5103,Concón,1
+5103,Concón,2
 5604,El Quisco,2
 5605,El Tabo,2
 5503,Hijuelas,1
@@ -61,19 +61,19 @@ codigo,nombre,paso_a_paso
 5802,Limache,1
 5703,Llaillay,2
 5301,Los Andes,1
-5506,Nogales,1
+5506,Nogales,2
 5803,Olmué,2
 5704,Panquehue,2
-5403,Papudo,1
+5403,Papudo,2
 5404,Petorca,3
 5105,Puchuncaví,2
 5705,Putaendo,1
-5501,Quillota,1
+5501,Quillota,2
 5801,Quilpué,1
 5107,Quintero,1
 5303,Rinconada,2
 5601,San Antonio,2
-5304,San Esteban,1
+5304,San Esteban,2
 5701,San Felipe,1
 5706,Santa Maria,1
 5606,Santo Domingo,2
@@ -86,13 +86,13 @@ codigo,nombre,paso_a_paso
 13403,Calera de Tango,1
 13102,Cerrillos,1
 13103,Cerro Navia,1
-13301,Colina,1
+13301,Colina,2
 13104,Conchalí,1
-13503,Curacaví,1
+13503,Curacaví,2
 13105,El Bosque,1
 13602,El Monte,1
 13106,Estación Central,1
-13107,Huechuraba,1
+13107,Huechuraba,2
 13108,Independencia,2
 13603,Isla de Maipo,1
 13109,La Cisterna,1
@@ -131,10 +131,10 @@ codigo,nombre,paso_a_paso
 13131,San Ramón,1
 13101,Santiago,1
 13601,Talagante,2
-13303,Tiltil,1
+13303,Tiltil,2
 13132,Vitacura,2
-6302,Chépica,1
-6303,Chimbarongo,1
+6302,Chépica,2
+6303,Chimbarongo,2
 6102,Codegua,1
 6103,Coinco,3
 6104,Coltauco,2
@@ -142,7 +142,7 @@ codigo,nombre,paso_a_paso
 6106,Graneros,1
 6202,La Estrella,2
 6107,Las Cabras,1
-6203,Litueche,1
+6203,Litueche,2
 6304,Lolol,3
 6108,Machalí,2
 6109,Malloa,1
@@ -155,25 +155,25 @@ codigo,nombre,paso_a_paso
 6206,Paredones,1
 6307,Peralillo,1
 6112,Peumo,2
-6113,Pichidegua,1
+6113,Pichidegua,2
 6201,Pichilemu,2
-6308,Placilla,1
+6308,Placilla,2
 6309,Pumanque,2
-6114,Quinta de Tilcoco,2
+6114,Quinta de Tilcoco,1
 6101,Rancagua,1
-6115,Rengo,1
+6115,Rengo,2
 6116,Requínoa,1
 6301,San Fernando,1
-6117,San Vicente,1
-6310,Santa Cruz,2
+6117,San Vicente,2
+6310,Santa Cruz,3
 7201,Cauquenes,1
-7202,Chanco,2
+7202,Chanco,3
 7402,Colbún,1
 7102,Constitución,1
-7103,Curepto,3
+7103,Curepto,2
 7301,Curicó,1
 7104,Empedrado,2
-7302,Hualañé,1
+7302,Hualañé,2
 7303,Licantén,2
 7401,Linares,1
 7403,Longaví,1
@@ -181,80 +181,80 @@ codigo,nombre,paso_a_paso
 7304,Molina,1
 7404,Parral,1
 7106,Pelarco,1
-7203,Pelluhue,2
-7107,Pencahue,3
+7203,Pelluhue,3
+7107,Pencahue,2
 7305,Rauco,1
 7405,Retiro,1
 7108,Río Claro,1
 7306,Romeral,1
 7307,Sagrada Familia,1
-7109,San Clemente,1
+7109,San Clemente,2
 7406,San Javier,1
-7110,San Rafael,1
+7110,San Rafael,2
 7101,Talca,2
 7308,Teno,1
 7309,Vichuquén,2
-7407,Villa Alegre,1
-7408,Yerbas Buenas,1
+7407,Villa Alegre,2
+7408,Yerbas Buenas,2
 16102,Bulnes,2
-16101,Chillán,1
-16103,Chillán Viejo,1
-16202,Cobquecura,2
+16101,Chillán,2
+16103,Chillán Viejo,2
+16202,Cobquecura,3
 16203,Coelemu,2
-16302,Coihueco,1
+16302,Coihueco,2
 16104,El Carmen,3
 16204,Ninhue,3
 16303,Ñiquén,1
 16105,Pemuco,1
 16106,Pinto,2
-16205,Portezuelo,2
+16205,Portezuelo,3
 16107,Quillón,2
-16201,Quirihue,3
+16201,Quirihue,2
 16206,Ránquil,3
 16301,San Carlos,1
-16304,San Fabián,1
+16304,San Fabián,2
 16108,San Ignacio,2
 16305,San Nicolás,1
 16207,Treguaco,2
-16109,Yungay,1
+16109,Yungay,2
 8314,Alto Biobío,1
 8302,Antuco,2
 8202,Arauco,1
 8303,Cabrero,1
 8203,Cañete,2
-8103,Chiguayante,1
-8101,Concepción,1
+8103,Chiguayante,2
+8101,Concepción,2
 8204,Contulmo,2
 8102,Coronel,1
 8205,Curanilahue,2
-8104,Florida,1
-8112,Hualpén,1
-8105,Hualqui,1
+8104,Florida,2
+8112,Hualpén,2
+8105,Hualqui,2
 8304,Laja,1
 8201,Lebu,2
-8206,Los Álamos,1
+8206,Los Álamos,2
 8301,Los Ángeles,1
 8106,Lota,1
 8305,Mulchén,1
 8306,Nacimiento,1
 8307,Negrete,1
-8107,Penco,1
+8107,Penco,2
 8308,Quilaco,1
 8309,Quilleco,1
-8108,San Pedro de la Paz,1
-8310,San Rosendo,2
+8108,San Pedro de la Paz,2
+8310,San Rosendo,1
 8311,Santa Bárbara,1
 8109,Santa Juana,1
-8110,Talcahuano,1
+8110,Talcahuano,2
 8207,Tirúa,1
 8111,Tomé,2
-8312,Tucapel,1
-8313,Yumbel,1
+8312,Tucapel,2
+8313,Yumbel,2
 9201,Angol,1
 9102,Carahue,1
 9121,Cholchol,1
 9202,Collipulli,1
-9103,Cunco,1
+9103,Cunco,2
 9203,Curacautín,1
 9104,Curarrehue,1
 9204,Ercilla,1
@@ -262,7 +262,7 @@ codigo,nombre,paso_a_paso
 9106,Galvarino,1
 9107,Gorbea,1
 9108,Lautaro,1
-9109,Loncoche,1
+9109,Loncoche,2
 9205,Lonquimay,3
 9206,Los Sauces,2
 9207,Lumaco,1
@@ -271,14 +271,14 @@ codigo,nombre,paso_a_paso
 9112,Padre Las Casas,1
 9113,Perquenco,1
 9114,Pitrufquén,1
-9115,Pucón,1
+9115,Pucón,2
 9208,Purén,1
 9209,Renaico,1
-9116,Saavedra,1
+9116,Saavedra,2
 9101,Temuco,1
-9117,Teodoro Schmidt,2
-9118,Toltén,2
-9210,Traiguén,2
+9117,Teodoro Schmidt,3
+9118,Toltén,1
+9210,Traiguén,1
 9211,Victoria,1
 9119,Vilcún,1
 9120,Villarrica,1
@@ -290,27 +290,27 @@ codigo,nombre,paso_a_paso
 14104,Los Lagos,2
 14105,Máfil,1
 14106,Mariquina,1
-14107,Paillaco,1
+14107,Paillaco,2
 14108,Panguipulli,1
-14204,Río Bueno,1
+14204,Río Bueno,2
 14101,Valdivia,2
 10202,Ancud,2
-10102,Calbuco,2
+10102,Calbuco,3
 10201,Castro,2
-10401,Chaitén,3
+10401,Chaitén,4
 10203,Chonchi,2
 10103,Cochamó,1
-10204,Curaco de Vélez,2
+10204,Curaco de Vélez,3
 10205,Dalcahue,2
 10104,Fresia,2
 10105,Frutillar,1
-10402,Futaleufú,3
-10403,Hualaihué,2
-10107,Llanquihue,3
+10402,Futaleufú,4
+10403,Hualaihué,3
+10107,Llanquihue,2
 10106,Los Muermos,2
 10108,Maullín,2
-10301,Osorno,1
-10404,Palena,3
+10301,Osorno,2
+10404,Palena,4
 10101,Puerto Montt,2
 10302,Puerto Octay,3
 10109,Puerto Varas,3
@@ -337,10 +337,10 @@ codigo,nombre,paso_a_paso
 12202,Antártica,3
 12201,Cabo de Hornos,3
 12102,Laguna Blanca,4
-12401,Natales,2
-12301,Porvenir,3
+12401,Natales,1
+12301,Porvenir,1
 12302,Primavera,4
-12101,Punta Arenas,2
+12101,Punta Arenas,1
 12103,Río Verde,4
 12104,San Gregorio,4
 12303,Timaukel,4

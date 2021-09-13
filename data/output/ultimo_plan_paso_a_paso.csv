@@ -28,7 +28,7 @@ codigo,nombre,paso_a_paso
 3304,Huasco,4
 3103,Tierra Amarilla,4
 3301,Vallenar,4
-4103,Andacollo,3
+4103,Andacollo,4
 4202,Canela,4
 4302,Combarbalá,4
 4102,Coquimbo,4
@@ -62,7 +62,7 @@ codigo,nombre,paso_a_paso
 5703,Llay-Llay,4
 5301,Los Andes,4
 5506,Nogales,4
-5803,Olmué,3
+5803,Olmué,4
 5704,Panquehue,4
 5403,Papudo,4
 5404,Petorca,4
@@ -147,9 +147,9 @@ codigo,nombre,paso_a_paso
 6108,Machalí,4
 6109,Malloa,4
 6204,Marchihue,4
-6110,Mostazal,4
+6110,Mostazal,3
 6305,Nancagua,4
-6205,Navidad,3
+6205,Navidad,4
 6111,Olivar,4
 6306,Palmilla,4
 6206,Paredones,4
@@ -238,7 +238,7 @@ codigo,nombre,paso_a_paso
 8305,Mulchén,4
 8306,Nacimiento,4
 8307,Negrete,4
-8107,Penco,3
+8107,Penco,4
 8308,Quilaco,4
 8309,Quilleco,4
 8108,San Pedro de la Paz,4
@@ -256,7 +256,7 @@ codigo,nombre,paso_a_paso
 9202,Collipulli,4
 9103,Cunco,4
 9203,Curacautín,3
-9104,Curarrehue,4
+9104,Curarrehue,3
 9204,Ercilla,4
 9105,Freire,4
 9106,Galvarino,4
@@ -276,7 +276,7 @@ codigo,nombre,paso_a_paso
 9209,Renaico,4
 9116,Saavedra,4
 9101,Temuco,4
-9117,Teodoro Schmidt,3
+9117,Teodoro Schmidt,4
 9118,Toltén,4
 9210,Traiguén,4
 9211,Victoria,4
@@ -302,17 +302,17 @@ codigo,nombre,paso_a_paso
 10103,Cochamó,4
 10204,Curaco de Vélez,4
 10205,Dalcahue,4
-10104,Fresia,3
+10104,Fresia,4
 10105,Frutillar,4
 10402,Futaleufú,4
 10403,Hualaihué,4
-10107,Llanquihue,3
+10107,Llanquihue,4
 10106,Los Muermos,4
 10108,Maullín,4
 10301,Osorno,4
 10404,Palena,4
 10101,Puerto Montt,4
-10302,Puerto Octay,2
+10302,Puerto Octay,3
 10109,Puerto Varas,4
 10206,Puqueldón,2
 10303,Purranque,4

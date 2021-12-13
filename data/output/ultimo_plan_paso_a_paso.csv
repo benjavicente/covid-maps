@@ -3,136 +3,136 @@ codigo,nombre,paso_a_paso
 15102,Camarones,4
 15202,General Lagos,4
 15201,Putre,4
-1107,Alto Hospicio,3
+1107,Alto Hospicio,4
 1402,Camiña,4
-1403,Colchane,3
+1403,Colchane,4
 1404,Huara,4
-1101,Iquique,3
-1405,Pica,3
-1401,Pozo Almonte,3
+1101,Iquique,4
+1405,Pica,4
+1401,Pozo Almonte,4
 2101,Antofagasta,4
 2201,Calama,4
 2302,María Elena,4
 2102,Mejillones,4
-2202,Ollagüe,4
+2202,Ollagüe,3
 2203,San Pedro de Atacama,4
 2103,Sierra Gorda,4
 2104,Taltal,3
-2301,Tocopilla,3
+2301,Tocopilla,4
 3302,Alto del Carmen,3
-3102,Caldera,2
+3102,Caldera,3
 3201,Chañaral,3
 3101,Copiapó,3
-3202,Diego de Almagro,2
-3303,Freirina,4
+3202,Diego de Almagro,3
+3303,Freirina,3
 3304,Huasco,2
-3103,Tierra Amarilla,4
+3103,Tierra Amarilla,3
 3301,Vallenar,2
-4103,Andacollo,3
+4103,Andacollo,4
 4202,Canela,4
 4302,Combarbalá,4
 4102,Coquimbo,3
-4201,Illapel,3
-4104,La Higuera,3
+4201,Illapel,4
+4104,La Higuera,4
 4101,La Serena,3
-4203,Los Vilos,2
+4203,Los Vilos,3
 4303,Monte Patria,4
 4301,Ovalle,4
 4105,Paihuano,3
 4304,Punitaqui,4
-4305,Río Hurtado,3
+4305,Río Hurtado,4
 4204,Salamanca,4
-4106,Vicuña,3
-5602,Algarrobo,3
+4106,Vicuña,4
+5602,Algarrobo,4
 5402,Cabildo,4
-5502,La Calera,3
+5502,La Calera,4
 5302,Calle Larga,4
-5603,Cartagena,2
+5603,Cartagena,3
 5102,Casablanca,4
 5702,Catemu,4
 5103,Concón,3
 5604,El Quisco,3
-5605,El Tabo,3
-5503,Hijuelas,3
+5605,El Tabo,4
+5503,Hijuelas,4
 5201,Isla de Pascua,4
 5104,Juan Fernández,4
 5504,La Cruz,4
-5401,La Ligua,3
+5401,La Ligua,4
 5802,Limache,4
 5703,Llay-Llay,4
 5301,Los Andes,4
 5506,Nogales,4
-5803,Olmué,3
+5803,Olmué,4
 5704,Panquehue,4
 5403,Papudo,4
 5404,Petorca,3
-5105,Puchuncaví,2
-5705,Putaendo,3
+5105,Puchuncaví,3
+5705,Putaendo,4
 5501,Quillota,4
-5801,Quilpué,3
-5107,Quintero,3
+5801,Quilpué,4
+5107,Quintero,4
 5303,Rinconada,4
-5601,San Antonio,3
+5601,San Antonio,4
 5304,San Esteban,4
 5701,San Felipe,4
 5706,Santa Maria,4
-5606,Santo Domingo,3
+5606,Santo Domingo,4
 5101,Valparaiso,3
 5804,Villa Alemana,3
 5109,Viña del Mar,3
-5405,Zapallar,3
-13502,Alhué,3
-13402,Buin,3
-13403,Calera de Tango,3
-13102,Cerrillos,3
-13103,Cerro Navia,3
-13301,Colina,3
-13104,Conchalí,3
-13503,Curacaví,3
-13105,El Bosque,3
-13602,El Monte,3
-13106,Estación Central,3
-13107,Huechuraba,3
-13108,Independencia,3
-13603,Isla de Maipo,3
-13109,La Cisterna,3
-13110,La Florida,3
-13111,La Granja,3
-13112,La Pintana,3
-13113,La Reina,3
-13302,Lampa,3
-13114,Las Condes,3
-13115,Lo Barnechea,3
-13116,Lo Espejo,3
-13117,Lo Prado,3
-13118,Macul,3
-13119,Maipú,3
-13504,María Pinto,3
-13501,Melipilla,3
-13120,Ñuñoa,3
-13604,Padre Hurtado,3
-13404,Paine,3
-13121,Pedro Aguirre Cerda,3
-13605,Peñaflor,3
-13122,Peñalolén,3
-13202,Pirque,3
-13123,Providencia,3
-13124,Pudahuel,3
-13201,Puente Alto,3
-13125,Quilicura,3
-13126,Quinta Normal,3
-13127,Recoleta,3
-13128,Renca,3
-13401,San Bernardo,3
-13129,San Joaquín,3
-13203,San José de Maipo,3
-13130,San Miguel,3
-13505,San Pedro,3
-13131,San Ramón,3
-13101,Santiago,3
-13601,Talagante,3
-13303,Til Til,3
-13132,Vitacura,3
+5405,Zapallar,4
+13502,Alhué,4
+13402,Buin,4
+13403,Calera de Tango,4
+13102,Cerrillos,4
+13103,Cerro Navia,4
+13301,Colina,4
+13104,Conchalí,4
+13503,Curacaví,4
+13105,El Bosque,4
+13602,El Monte,4
+13106,Estación Central,4
+13107,Huechuraba,4
+13108,Independencia,4
+13603,Isla de Maipo,4
+13109,La Cisterna,4
+13110,La Florida,4
+13111,La Granja,4
+13112,La Pintana,4
+13113,La Reina,4
+13302,Lampa,4
+13114,Las Condes,4
+13115,Lo Barnechea,4
+13116,Lo Espejo,4
+13117,Lo Prado,4
+13118,Macul,4
+13119,Maipú,4
+13504,María Pinto,4
+13501,Melipilla,4
+13120,Ñuñoa,4
+13604,Padre Hurtado,4
+13404,Paine,4
+13121,Pedro Aguirre Cerda,4
+13605,Peñaflor,4
+13122,Peñalolén,4
+13202,Pirque,4
+13123,Providencia,4
+13124,Pudahuel,4
+13201,Puente Alto,4
+13125,Quilicura,4
+13126,Quinta Normal,4
+13127,Recoleta,4
+13128,Renca,4
+13401,San Bernardo,4
+13129,San Joaquín,4
+13203,San José de Maipo,4
+13130,San Miguel,4
+13505,San Pedro,4
+13131,San Ramón,4
+13101,Santiago,4
+13601,Talagante,4
+13303,Til Til,4
+13132,Vitacura,4
 6302,Chépica,4
 6303,Chimbarongo,4
 6102,Codegua,4
@@ -141,14 +141,14 @@ codigo,nombre,paso_a_paso
 6105,Doñihue,4
 6106,Graneros,4
 6202,La Estrella,4
-6107,Las Cabras,3
+6107,Las Cabras,4
 6203,Litueche,4
 6304,Lolol,4
 6108,Machalí,4
 6109,Malloa,4
 6204,Marchihue,4
 6110,Mostazal,4
-6305,Nancagua,3
+6305,Nancagua,4
 6205,Navidad,3
 6111,Olivar,4
 6306,Palmilla,4
@@ -156,7 +156,7 @@ codigo,nombre,paso_a_paso
 6307,Peralillo,4
 6112,Peumo,4
 6113,Pichidegua,4
-6201,Pichilemu,2
+6201,Pichilemu,3
 6308,Placilla,4
 6309,Pumanque,4
 6114,Quinta de Tilcoco,4
@@ -170,50 +170,50 @@ codigo,nombre,paso_a_paso
 7202,Chanco,4
 7402,Colbún,4
 7102,Constitución,4
-7103,Curepto,3
+7103,Curepto,4
 7301,Curicó,3
 7104,Empedrado,4
-7302,Hualañé,2
+7302,Hualañé,4
 7303,Licantén,4
 7401,Linares,4
-7403,Longaví,3
+7403,Longaví,4
 7105,Maule,4
 7304,Molina,4
-7404,Parral,3
+7404,Parral,4
 7106,Pelarco,4
 7203,Pelluhue,4
 7107,Pencahue,4
-7305,Rauco,4
-7405,Retiro,3
+7305,Rauco,3
+7405,Retiro,4
 7108,Río Claro,3
-7306,Romeral,3
-7307,Sagrada Familia,3
-7109,San Clemente,3
-7406,San Javier,3
+7306,Romeral,4
+7307,Sagrada Familia,4
+7109,San Clemente,4
+7406,San Javier,4
 7110,San Rafael,4
 7101,Talca,4
-7308,Teno,3
+7308,Teno,4
 7309,Vichuquén,4
 7407,Villa Alegre,3
 7408,Yerbas Buenas,4
 16102,Bulnes,4
 16101,Chillán,3
 16103,Chillán Viejo,3
-16202,Cobquecura,4
+16202,Cobquecura,3
 16203,Coelemu,4
-16302,Coihueco,4
+16302,Coihueco,3
 16104,El Carmen,4
 16204,Ninhue,4
 16303,Ñiquén,4
 16105,Pemuco,4
-16106,Pinto,4
+16106,Pinto,3
 16205,Portezuelo,4
-16107,Quillón,3
+16107,Quillón,4
 16201,Quirihue,4
 16206,Ránquil,4
 16301,San Carlos,4
 16304,San Fabián,4
-16108,San Ignacio,4
+16108,San Ignacio,3
 16305,San Nicolás,3
 16207,Trehuaco,4
 16109,Yungay,4
@@ -225,26 +225,26 @@ codigo,nombre,paso_a_paso
 8103,Chiguayante,3
 8101,Concepción,3
 8204,Contulmo,4
-8102,Coronel,3
-8205,Curanilahue,3
+8102,Coronel,2
+8205,Curanilahue,4
 8104,Florida,3
 8112,Hualpén,3
 8105,Hualqui,3
-8304,Laja,4
-8201,Lebu,2
+8304,Laja,3
+8201,Lebu,3
 8206,Los Álamos,3
 8301,Los Ángeles,2
-8106,Lota,3
-8305,Mulchén,3
+8106,Lota,2
+8305,Mulchén,2
 8306,Nacimiento,4
 8307,Negrete,3
 8107,Penco,3
-8308,Quilaco,3
-8309,Quilleco,4
+8308,Quilaco,4
+8309,Quilleco,3
 8108,San Pedro de la Paz,3
 8310,San Rosendo,4
-8311,Santa Bárbara,3
-8109,Santa Juana,4
+8311,Santa Bárbara,2
+8109,Santa Juana,3
 8110,Talcahuano,3
 8207,Tirúa,4
 8111,Tomé,2
@@ -253,7 +253,7 @@ codigo,nombre,paso_a_paso
 9201,Angol,4
 9102,Carahue,4
 9121,Cholchol,4
-9202,Collipulli,4
+9202,Collipulli,3
 9103,Cunco,3
 9203,Curacautín,4
 9104,Curarrehue,4
@@ -266,14 +266,14 @@ codigo,nombre,paso_a_paso
 9205,Lonquimay,3
 9206,Los Sauces,4
 9207,Lumaco,4
-9110,Melipeuco,3
+9110,Melipeuco,4
 9111,Nueva Imperial,4
 9112,Padre Las Casas,4
-9113,Perquenco,2
+9113,Perquenco,3
 9114,Pitrufquén,4
-9115,Pucón,3
-9208,Purén,3
-9209,Renaico,4
+9115,Pucón,4
+9208,Purén,4
+9209,Renaico,3
 9116,Saavedra,4
 9101,Temuco,4
 9117,Teodoro Schmidt,2
@@ -281,45 +281,45 @@ codigo,nombre,paso_a_paso
 9210,Traiguén,4
 9211,Victoria,4
 9119,Vilcún,4
-9120,Villarrica,3
+9120,Villarrica,4
 14102,Corral,3
 14202,Futrono,3
-14201,La Unión,4
-14203,Lago Ranco,4
+14201,La Unión,3
+14203,Lago Ranco,3
 14103,Lanco,2
 14104,Los Lagos,4
 14105,Máfil,3
-14106,Mariquina,3
+14106,Mariquina,4
 14107,Paillaco,3
-14108,Panguipulli,3
-14204,Río Bueno,3
+14108,Panguipulli,4
+14204,Río Bueno,2
 14101,Valdivia,3
 10202,Ancud,4
 10102,Calbuco,2
 10201,Castro,3
-10401,Chaitén,4
+10401,Chaitén,3
 10203,Chonchi,3
 10103,Cochamó,4
 10204,Curaco de Vélez,4
-10205,Dalcahue,4
+10205,Dalcahue,3
 10104,Fresia,4
-10105,Frutillar,4
-10402,Futaleufú,2
-10403,Hualaihué,4
+10105,Frutillar,3
+10402,Futaleufú,3
+10403,Hualaihué,3
 10107,Llanquihue,3
 10106,Los Muermos,3
 10108,Maullín,4
 10301,Osorno,2
-10404,Palena,3
-10101,Puerto Montt,3
+10404,Palena,4
+10101,Puerto Montt,2
 10302,Puerto Octay,2
 10109,Puerto Varas,3
-10206,Puqueldón,3
-10303,Purranque,3
+10206,Puqueldón,4
+10303,Purranque,2
 10304,Puyehue,2
-10207,Queilén,3
+10207,Queilén,4
 10208,Quellón,4
-10209,Quemchi,4
+10209,Quemchi,3
 10210,Quinchao,3
 10305,Río Negro,3
 10306,San Juan de la Costa,2

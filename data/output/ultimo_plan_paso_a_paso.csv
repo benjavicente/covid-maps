@@ -14,20 +14,20 @@ codigo,nombre,paso_a_paso
 2201,Calama,4
 2302,María Elena,4
 2102,Mejillones,4
-2202,Ollagüe,3
+2202,Ollagüe,4
 2203,San Pedro de Atacama,4
 2103,Sierra Gorda,4
-2104,Taltal,3
+2104,Taltal,4
 2301,Tocopilla,4
 3302,Alto del Carmen,3
-3102,Caldera,3
-3201,Chañaral,3
+3102,Caldera,4
+3201,Chañaral,4
 3101,Copiapó,3
-3202,Diego de Almagro,3
+3202,Diego de Almagro,4
 3303,Freirina,3
-3304,Huasco,2
+3304,Huasco,3
 3103,Tierra Amarilla,3
-3301,Vallenar,2
+3301,Vallenar,3
 4103,Andacollo,4
 4202,Canela,4
 4302,Combarbalá,4
@@ -38,7 +38,7 @@ codigo,nombre,paso_a_paso
 4203,Los Vilos,3
 4303,Monte Patria,4
 4301,Ovalle,4
-4105,Paihuano,3
+4105,Paihuano,4
 4304,Punitaqui,4
 4305,Río Hurtado,4
 4204,Salamanca,4
@@ -47,10 +47,10 @@ codigo,nombre,paso_a_paso
 5402,Cabildo,4
 5502,La Calera,4
 5302,Calle Larga,4
-5603,Cartagena,3
+5603,Cartagena,4
 5102,Casablanca,4
 5702,Catemu,4
-5103,Concón,3
+5103,Concón,4
 5604,El Quisco,3
 5605,El Tabo,4
 5503,Hijuelas,4
@@ -65,8 +65,8 @@ codigo,nombre,paso_a_paso
 5803,Olmué,4
 5704,Panquehue,4
 5403,Papudo,4
-5404,Petorca,3
-5105,Puchuncaví,3
+5404,Petorca,4
+5105,Puchuncaví,4
 5705,Putaendo,4
 5501,Quillota,4
 5801,Quilpué,4
@@ -78,7 +78,7 @@ codigo,nombre,paso_a_paso
 5706,Santa Maria,4
 5606,Santo Domingo,4
 5101,Valparaiso,3
-5804,Villa Alemana,3
+5804,Villa Alemana,4
 5109,Viña del Mar,3
 5405,Zapallar,4
 13502,Alhué,4
@@ -161,7 +161,7 @@ codigo,nombre,paso_a_paso
 6309,Pumanque,4
 6114,Quinta de Tilcoco,4
 6101,Rancagua,4
-6115,Rengo,3
+6115,Rengo,4
 6116,Requínoa,4
 6301,San Fernando,4
 6117,San Vicente,4
@@ -185,7 +185,7 @@ codigo,nombre,paso_a_paso
 7107,Pencahue,4
 7305,Rauco,3
 7405,Retiro,4
-7108,Río Claro,3
+7108,Río Claro,4
 7306,Romeral,4
 7307,Sagrada Familia,4
 7109,San Clemente,4
@@ -194,32 +194,32 @@ codigo,nombre,paso_a_paso
 7101,Talca,4
 7308,Teno,4
 7309,Vichuquén,4
-7407,Villa Alegre,3
+7407,Villa Alegre,4
 7408,Yerbas Buenas,4
 16102,Bulnes,4
 16101,Chillán,3
 16103,Chillán Viejo,3
-16202,Cobquecura,3
+16202,Cobquecura,4
 16203,Coelemu,4
-16302,Coihueco,3
+16302,Coihueco,4
 16104,El Carmen,4
 16204,Ninhue,4
 16303,Ñiquén,4
 16105,Pemuco,4
-16106,Pinto,3
+16106,Pinto,4
 16205,Portezuelo,4
 16107,Quillón,4
 16201,Quirihue,4
 16206,Ránquil,4
 16301,San Carlos,4
 16304,San Fabián,4
-16108,San Ignacio,3
-16305,San Nicolás,3
+16108,San Ignacio,4
+16305,San Nicolás,4
 16207,Trehuaco,4
 16109,Yungay,4
 8314,Alto Biobío,4
-8302,Antuco,3
-8202,Arauco,3
+8302,Antuco,4
+8202,Arauco,4
 8303,Cabrero,3
 8203,Cañete,3
 8103,Chiguayante,3
@@ -227,29 +227,29 @@ codigo,nombre,paso_a_paso
 8204,Contulmo,4
 8102,Coronel,2
 8205,Curanilahue,4
-8104,Florida,3
+8104,Florida,4
 8112,Hualpén,3
 8105,Hualqui,3
 8304,Laja,3
 8201,Lebu,3
 8206,Los Álamos,3
-8301,Los Ángeles,2
+8301,Los Ángeles,3
 8106,Lota,2
 8305,Mulchén,2
 8306,Nacimiento,4
 8307,Negrete,3
 8107,Penco,3
 8308,Quilaco,4
-8309,Quilleco,3
+8309,Quilleco,4
 8108,San Pedro de la Paz,3
 8310,San Rosendo,4
 8311,Santa Bárbara,2
 8109,Santa Juana,3
 8110,Talcahuano,3
 8207,Tirúa,4
-8111,Tomé,2
+8111,Tomé,3
 8312,Tucapel,4
-8313,Yumbel,3
+8313,Yumbel,4
 9201,Angol,4
 9102,Carahue,4
 9121,Cholchol,4
@@ -276,8 +276,8 @@ codigo,nombre,paso_a_paso
 9209,Renaico,3
 9116,Saavedra,4
 9101,Temuco,4
-9117,Teodoro Schmidt,2
-9118,Toltén,3
+9117,Teodoro Schmidt,3
+9118,Toltén,4
 9210,Traiguén,4
 9211,Victoria,4
 9119,Vilcún,4
@@ -286,7 +286,7 @@ codigo,nombre,paso_a_paso
 14202,Futrono,3
 14201,La Unión,3
 14203,Lago Ranco,3
-14103,Lanco,2
+14103,Lanco,3
 14104,Los Lagos,4
 14105,Máfil,3
 14106,Mariquina,4
@@ -302,11 +302,11 @@ codigo,nombre,paso_a_paso
 10103,Cochamó,4
 10204,Curaco de Vélez,4
 10205,Dalcahue,3
-10104,Fresia,4
+10104,Fresia,3
 10105,Frutillar,3
-10402,Futaleufú,3
+10402,Futaleufú,4
 10403,Hualaihué,3
-10107,Llanquihue,3
+10107,Llanquihue,2
 10106,Los Muermos,3
 10108,Maullín,4
 10301,Osorno,2
@@ -319,13 +319,13 @@ codigo,nombre,paso_a_paso
 10304,Puyehue,2
 10207,Queilén,4
 10208,Quellón,4
-10209,Quemchi,3
-10210,Quinchao,3
+10209,Quemchi,4
+10210,Quinchao,4
 10305,Río Negro,3
 10306,San Juan de la Costa,2
 10307,San Pablo,2
 11201,Aysén,2
-11401,Chile Chico,4
+11401,Chile Chico,3
 11202,Cisnes,4
 11301,Cochrane,4
 11101,Coyhaique,2

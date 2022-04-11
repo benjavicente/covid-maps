@@ -3,21 +3,21 @@ codigo,nombre,paso_a_paso
 15102,Camarones,4
 15202,General Lagos,5
 15201,Putre,5
-1107,Alto Hospicio,4
-1402,Camiña,4
-1403,Colchane,4
-1404,Huara,4
-1101,Iquique,4
-1405,Pica,4
-1401,Pozo Almonte,4
-2101,Antofagasta,4
+1107,Alto Hospicio,5
+1402,Camiña,5
+1403,Colchane,5
+1404,Huara,5
+1101,Iquique,5
+1405,Pica,5
+1401,Pozo Almonte,5
+2101,Antofagasta,5
 2201,Calama,5
 2302,María Elena,5
-2102,Mejillones,4
+2102,Mejillones,5
 2202,Ollagüe,5
 2203,San Pedro de Atacama,5
-2103,Sierra Gorda,4
-2104,Taltal,4
+2103,Sierra Gorda,5
+2104,Taltal,5
 2301,Tocopilla,5
 3302,Alto del Carmen,4
 3102,Caldera,4
@@ -217,71 +217,71 @@ codigo,nombre,paso_a_paso
 16305,San Nicolás,3
 16207,Trehuaco,3
 16109,Yungay,3
-8314,Alto Biobío,3
-8302,Antuco,3
-8202,Arauco,3
-8303,Cabrero,3
-8203,Cañete,3
-8103,Chiguayante,3
-8101,Concepción,3
-8204,Contulmo,3
-8102,Coronel,3
-8205,Curanilahue,3
-8104,Florida,3
-8112,Hualpén,3
-8105,Hualqui,3
-8304,Laja,3
-8201,Lebu,3
-8206,Los Álamos,3
-8301,Los Ángeles,3
-8106,Lota,3
-8305,Mulchén,3
-8306,Nacimiento,3
-8307,Negrete,3
-8107,Penco,3
-8308,Quilaco,3
-8309,Quilleco,3
-8108,San Pedro de la Paz,3
-8310,San Rosendo,3
-8311,Santa Bárbara,3
-8109,Santa Juana,3
-8110,Talcahuano,3
-8207,Tirúa,3
-8111,Tomé,3
-8312,Tucapel,3
-8313,Yumbel,3
-9201,Angol,3
-9102,Carahue,3
-9121,Cholchol,3
-9202,Collipulli,3
-9103,Cunco,3
-9203,Curacautín,3
-9104,Curarrehue,3
-9204,Ercilla,3
-9105,Freire,3
-9106,Galvarino,3
-9107,Gorbea,3
-9108,Lautaro,3
-9109,Loncoche,3
-9205,Lonquimay,3
-9206,Los Sauces,3
-9207,Lumaco,3
-9110,Melipeuco,3
-9111,Nueva Imperial,3
-9112,Padre Las Casas,3
-9113,Perquenco,3
-9114,Pitrufquén,3
-9115,Pucón,3
-9208,Purén,3
-9209,Renaico,3
-9116,Saavedra,3
-9101,Temuco,3
-9117,Teodoro Schmidt,3
-9118,Toltén,3
-9210,Traiguén,3
-9211,Victoria,3
-9119,Vilcún,3
-9120,Villarrica,3
+8314,Alto Biobío,4
+8302,Antuco,4
+8202,Arauco,4
+8303,Cabrero,4
+8203,Cañete,4
+8103,Chiguayante,4
+8101,Concepción,4
+8204,Contulmo,4
+8102,Coronel,4
+8205,Curanilahue,4
+8104,Florida,4
+8112,Hualpén,4
+8105,Hualqui,4
+8304,Laja,4
+8201,Lebu,4
+8206,Los Álamos,4
+8301,Los Ángeles,4
+8106,Lota,4
+8305,Mulchén,4
+8306,Nacimiento,4
+8307,Negrete,4
+8107,Penco,4
+8308,Quilaco,4
+8309,Quilleco,4
+8108,San Pedro de la Paz,4
+8310,San Rosendo,4
+8311,Santa Bárbara,4
+8109,Santa Juana,4
+8110,Talcahuano,4
+8207,Tirúa,4
+8111,Tomé,4
+8312,Tucapel,4
+8313,Yumbel,4
+9201,Angol,4
+9102,Carahue,4
+9121,Cholchol,4
+9202,Collipulli,4
+9103,Cunco,4
+9203,Curacautín,4
+9104,Curarrehue,4
+9204,Ercilla,4
+9105,Freire,4
+9106,Galvarino,4
+9107,Gorbea,4
+9108,Lautaro,4
+9109,Loncoche,4
+9205,Lonquimay,4
+9206,Los Sauces,4
+9207,Lumaco,4
+9110,Melipeuco,4
+9111,Nueva Imperial,4
+9112,Padre Las Casas,4
+9113,Perquenco,4
+9114,Pitrufquén,4
+9115,Pucón,4
+9208,Purén,4
+9209,Renaico,4
+9116,Saavedra,4
+9101,Temuco,4
+9117,Teodoro Schmidt,4
+9118,Toltén,4
+9210,Traiguén,4
+9211,Victoria,4
+9119,Vilcún,4
+9120,Villarrica,4
 14102,Corral,4
 14202,Futrono,4
 14201,La Unión,4

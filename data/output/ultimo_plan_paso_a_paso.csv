@@ -1,347 +1,347 @@
 codigo,nombre,paso_a_paso
-15101,Arica,4
-15102,Camarones,4
-15202,General Lagos,5
-15201,Putre,5
-1107,Alto Hospicio,5
-1402,Camiña,5
-1403,Colchane,5
-1404,Huara,5
-1101,Iquique,5
-1405,Pica,5
-1401,Pozo Almonte,5
-2101,Antofagasta,5
-2201,Calama,5
-2302,María Elena,5
-2102,Mejillones,5
-2202,Ollagüe,5
-2203,San Pedro de Atacama,5
-2103,Sierra Gorda,5
-2104,Taltal,5
-2301,Tocopilla,5
-3302,Alto del Carmen,4
-3102,Caldera,4
-3201,Chañaral,4
-3101,Copiapó,4
-3202,Diego de Almagro,4
-3303,Freirina,4
-3304,Huasco,4
-3103,Tierra Amarilla,4
-3301,Vallenar,4
-4103,Andacollo,4
-4202,Canela,4
-4302,Combarbalá,4
-4102,Coquimbo,4
-4201,Illapel,4
-4104,La Higuera,4
-4101,La Serena,4
-4203,Los Vilos,4
-4303,Monte Patria,4
-4301,Ovalle,4
-4105,Paihuano,4
-4304,Punitaqui,4
-4305,Río Hurtado,4
-4204,Salamanca,4
-4106,Vicuña,4
-5602,Algarrobo,4
-5402,Cabildo,4
-5502,La Calera,4
-5302,Calle Larga,3
-5603,Cartagena,4
-5102,Casablanca,4
-5702,Catemu,4
-5103,Concón,4
-5604,El Quisco,4
-5605,El Tabo,4
-5503,Hijuelas,4
-5201,Isla de Pascua,4
-5104,Juan Fernández,4
-5504,La Cruz,4
-5401,La Ligua,4
-5802,Limache,4
-5703,Llay-Llay,4
-5301,Los Andes,3
-5506,Nogales,4
-5803,Olmué,4
-5704,Panquehue,4
-5403,Papudo,4
-5404,Petorca,4
-5105,Puchuncaví,4
-5705,Putaendo,4
-5501,Quillota,4
-5801,Quilpué,4
-5107,Quintero,4
-5303,Rinconada,3
-5601,San Antonio,4
-5304,San Esteban,3
-5701,San Felipe,4
-5706,Santa Maria,4
-5606,Santo Domingo,4
-5101,Valparaiso,4
-5804,Villa Alemana,4
-5109,Viña del Mar,4
-5405,Zapallar,4
-13502,Alhué,4
-13402,Buin,4
-13403,Calera de Tango,4
-13102,Cerrillos,4
-13103,Cerro Navia,4
-13301,Colina,4
-13104,Conchalí,4
-13503,Curacaví,4
-13105,El Bosque,4
-13602,El Monte,4
-13106,Estación Central,4
-13107,Huechuraba,4
-13108,Independencia,4
-13603,Isla de Maipo,4
-13109,La Cisterna,4
-13110,La Florida,4
-13111,La Granja,4
-13112,La Pintana,4
-13113,La Reina,4
-13302,Lampa,4
-13114,Las Condes,4
-13115,Lo Barnechea,4
-13116,Lo Espejo,4
-13117,Lo Prado,4
-13118,Macul,4
-13119,Maipú,4
-13504,María Pinto,4
-13501,Melipilla,4
-13120,Ñuñoa,4
-13604,Padre Hurtado,4
-13404,Paine,4
-13121,Pedro Aguirre Cerda,4
-13605,Peñaflor,4
-13122,Peñalolén,4
-13202,Pirque,4
-13123,Providencia,4
-13124,Pudahuel,4
-13201,Puente Alto,4
-13125,Quilicura,4
-13126,Quinta Normal,4
-13127,Recoleta,4
-13128,Renca,4
-13401,San Bernardo,4
-13129,San Joaquín,4
-13203,San José de Maipo,4
-13130,San Miguel,4
-13505,San Pedro,4
-13131,San Ramón,4
-13101,Santiago,4
-13601,Talagante,4
-13303,Til Til,4
-13132,Vitacura,4
-6302,Chépica,4
-6303,Chimbarongo,4
-6102,Codegua,4
-6103,Coinco,4
-6104,Coltauco,4
-6105,Doñihue,4
-6106,Graneros,4
-6202,La Estrella,4
-6107,Las Cabras,4
-6203,Litueche,4
-6304,Lolol,4
-6108,Machalí,4
-6109,Malloa,4
-6204,Marchihue,4
-6110,Mostazal,4
-6305,Nancagua,4
-6205,Navidad,4
-6111,Olivar,4
-6306,Palmilla,4
-6206,Paredones,4
-6307,Peralillo,4
-6112,Peumo,4
-6113,Pichidegua,4
-6201,Pichilemu,4
-6308,Placilla,4
-6309,Pumanque,4
-6114,Quinta de Tilcoco,4
-6101,Rancagua,4
-6115,Rengo,4
-6116,Requínoa,4
-6301,San Fernando,4
-6117,San Vicente,4
-6310,Santa Cruz,4
-7201,Cauquenes,3
-7202,Chanco,3
-7402,Colbún,3
-7102,Constitución,3
-7103,Curepto,3
-7301,Curicó,3
-7104,Empedrado,3
-7302,Hualañé,3
-7303,Licantén,3
-7401,Linares,3
-7403,Longaví,3
-7105,Maule,3
-7304,Molina,3
-7404,Parral,3
-7106,Pelarco,3
-7203,Pelluhue,3
-7107,Pencahue,3
-7305,Rauco,3
-7405,Retiro,3
-7108,Río Claro,3
-7306,Romeral,3
-7307,Sagrada Familia,3
-7109,San Clemente,3
-7406,San Javier,3
-7110,San Rafael,3
-7101,Talca,3
-7308,Teno,3
-7309,Vichuquén,3
-7407,Villa Alegre,3
-7408,Yerbas Buenas,3
-16102,Bulnes,3
-16101,Chillán,3
-16103,Chillán Viejo,3
-16202,Cobquecura,3
-16203,Coelemu,3
-16302,Coihueco,3
-16104,El Carmen,3
-16204,Ninhue,3
-16303,Ñiquén,3
-16105,Pemuco,3
-16106,Pinto,3
-16205,Portezuelo,3
-16107,Quillón,3
-16201,Quirihue,3
-16206,Ránquil,3
-16301,San Carlos,3
-16304,San Fabián,3
-16108,San Ignacio,3
-16305,San Nicolás,3
-16207,Trehuaco,3
-16109,Yungay,3
-8314,Alto Biobío,4
-8302,Antuco,4
-8202,Arauco,4
-8303,Cabrero,4
-8203,Cañete,4
-8103,Chiguayante,4
-8101,Concepción,4
-8204,Contulmo,4
-8102,Coronel,4
-8205,Curanilahue,4
-8104,Florida,4
-8112,Hualpén,4
-8105,Hualqui,4
-8304,Laja,4
-8201,Lebu,4
-8206,Los Álamos,4
-8301,Los Ángeles,4
-8106,Lota,4
-8305,Mulchén,4
-8306,Nacimiento,4
-8307,Negrete,4
-8107,Penco,4
-8308,Quilaco,4
-8309,Quilleco,4
-8108,San Pedro de la Paz,4
-8310,San Rosendo,4
-8311,Santa Bárbara,4
-8109,Santa Juana,4
-8110,Talcahuano,4
-8207,Tirúa,4
-8111,Tomé,4
-8312,Tucapel,4
-8313,Yumbel,4
-9201,Angol,4
-9102,Carahue,4
-9121,Cholchol,4
-9202,Collipulli,4
-9103,Cunco,4
-9203,Curacautín,4
-9104,Curarrehue,4
-9204,Ercilla,4
-9105,Freire,4
-9106,Galvarino,4
-9107,Gorbea,4
-9108,Lautaro,4
-9109,Loncoche,4
-9205,Lonquimay,4
-9206,Los Sauces,4
-9207,Lumaco,4
-9110,Melipeuco,4
-9111,Nueva Imperial,4
-9112,Padre Las Casas,4
-9113,Perquenco,4
-9114,Pitrufquén,4
-9115,Pucón,4
-9208,Purén,4
-9209,Renaico,4
-9116,Saavedra,4
-9101,Temuco,4
-9117,Teodoro Schmidt,4
-9118,Toltén,4
-9210,Traiguén,4
-9211,Victoria,4
-9119,Vilcún,4
-9120,Villarrica,4
-14102,Corral,4
-14202,Futrono,4
-14201,La Unión,4
-14203,Lago Ranco,4
-14103,Lanco,4
-14104,Los Lagos,4
-14105,Máfil,4
-14106,Mariquina,4
-14107,Paillaco,4
-14108,Panguipulli,4
-14204,Río Bueno,4
-14101,Valdivia,4
-10202,Ancud,3
-10102,Calbuco,3
-10201,Castro,3
-10401,Chaitén,3
-10203,Chonchi,3
-10103,Cochamó,3
-10204,Curaco de Vélez,3
-10205,Dalcahue,3
-10104,Fresia,3
-10105,Frutillar,3
-10402,Futaleufú,3
-10403,Hualaihué,3
-10107,Llanquihue,3
-10106,Los Muermos,3
-10108,Maullín,3
-10301,Osorno,3
-10404,Palena,3
-10101,Puerto Montt,3
-10302,Puerto Octay,3
-10109,Puerto Varas,3
-10206,Puqueldón,3
-10303,Purranque,3
-10304,Puyehue,3
-10207,Queilén,3
-10208,Quellón,3
-10209,Quemchi,3
-10210,Quinchao,3
-10305,Río Negro,3
-10306,San Juan de la Costa,3
-10307,San Pablo,3
-11201,Aysén,3
-11401,Chile Chico,4
-11202,Cisnes,3
-11301,Cochrane,3
-11101,Coyhaique,3
-11203,Guaitecas,3
-11102,Lago Verde,3
-11302,O'Higgins,3
-11402,Río Ibáñez,4
-11303,Tortel,3
-12202,Antártica,5
-12201,Cabo de Hornos,5
-12102,Laguna Blanca,4
-12401,Natales,4
-12301,Porvenir,4
-12302,Primavera,4
-12101,Punta Arenas,4
-12103,Río Verde,4
-12104,San Gregorio,4
-12303,Timaukel,4
-12402,Torres del Paine,4
+15101,Arica,Medio
+15102,Camarones,Medio
+15202,General Lagos,Medio
+15201,Putre,Medio
+1107,Alto Hospicio,Bajo
+1402,Camiña,Medio
+1403,Colchane,Medio
+1404,Huara,Medio
+1101,Iquique,Bajo
+1405,Pica,Medio
+1401,Pozo Almonte,Medio
+2101,Antofagasta,Bajo
+2201,Calama,Bajo
+2302,María Elena,Bajo
+2102,Mejillones,Bajo
+2202,Ollagüe,Bajo
+2203,San Pedro de Atacama,Bajo
+2103,Sierra Gorda,Bajo
+2104,Taltal,Bajo
+2301,Tocopilla,Bajo
+3302,Alto del Carmen,Bajo
+3102,Caldera,Bajo
+3201,Chañaral,Bajo
+3101,Copiapó,Bajo
+3202,Diego de Almagro,Bajo
+3303,Freirina,Bajo
+3304,Huasco,Bajo
+3103,Tierra Amarilla,Bajo
+3301,Vallenar,Bajo
+4103,Andacollo,Bajo
+4202,Canela,Bajo
+4302,Combarbalá,Bajo
+4102,Coquimbo,Bajo
+4201,Illapel,Bajo
+4104,La Higuera,Bajo
+4101,La Serena,Bajo
+4203,Los Vilos,Bajo
+4303,Monte Patria,Bajo
+4301,Ovalle,Bajo
+4105,Paihuano,Bajo
+4304,Punitaqui,Bajo
+4305,Río Hurtado,Bajo
+4204,Salamanca,Bajo
+4106,Vicuña,Bajo
+5602,Algarrobo,Bajo
+5402,Cabildo,Bajo
+5502,La Calera,Bajo
+5302,Calle Larga,Bajo
+5603,Cartagena,Bajo
+5102,Casablanca,Bajo
+5702,Catemu,Bajo
+5103,Concón,Bajo
+5604,El Quisco,Bajo
+5605,El Tabo,Bajo
+5503,Hijuelas,Bajo
+5201,Isla de Pascua,Medio
+5104,Juan Fernández,Bajo
+5504,La Cruz,Bajo
+5401,La Ligua,Bajo
+5802,Limache,Bajo
+5703,Llay-Llay,Bajo
+5301,Los Andes,Bajo
+5506,Nogales,Bajo
+5803,Olmué,Bajo
+5704,Panquehue,Bajo
+5403,Papudo,Bajo
+5404,Petorca,Bajo
+5105,Puchuncaví,Bajo
+5705,Putaendo,Bajo
+5501,Quillota,Bajo
+5801,Quilpué,Bajo
+5107,Quintero,Bajo
+5303,Rinconada,Bajo
+5601,San Antonio,Bajo
+5304,San Esteban,Bajo
+5701,San Felipe,Bajo
+5706,Santa Maria,Bajo
+5606,Santo Domingo,Bajo
+5101,Valparaiso,Bajo
+5804,Villa Alemana,Bajo
+5109,Viña del Mar,Bajo
+5405,Zapallar,Bajo
+13502,Alhué,Bajo
+13402,Buin,Bajo
+13403,Calera de Tango,Bajo
+13102,Cerrillos,Bajo
+13103,Cerro Navia,Bajo
+13301,Colina,Bajo
+13104,Conchalí,Bajo
+13503,Curacaví,Bajo
+13105,El Bosque,Bajo
+13602,El Monte,Bajo
+13106,Estación Central,Bajo
+13107,Huechuraba,Bajo
+13108,Independencia,Bajo
+13603,Isla de Maipo,Bajo
+13109,La Cisterna,Bajo
+13110,La Florida,Bajo
+13111,La Granja,Bajo
+13112,La Pintana,Bajo
+13113,La Reina,Bajo
+13302,Lampa,Bajo
+13114,Las Condes,Bajo
+13115,Lo Barnechea,Bajo
+13116,Lo Espejo,Bajo
+13117,Lo Prado,Bajo
+13118,Macul,Bajo
+13119,Maipú,Bajo
+13504,María Pinto,Bajo
+13501,Melipilla,Bajo
+13120,Ñuñoa,Bajo
+13604,Padre Hurtado,Bajo
+13404,Paine,Bajo
+13121,Pedro Aguirre Cerda,Bajo
+13605,Peñaflor,Bajo
+13122,Peñalolén,Bajo
+13202,Pirque,Bajo
+13123,Providencia,Bajo
+13124,Pudahuel,Bajo
+13201,Puente Alto,Bajo
+13125,Quilicura,Bajo
+13126,Quinta Normal,Bajo
+13127,Recoleta,Bajo
+13128,Renca,Bajo
+13401,San Bernardo,Bajo
+13129,San Joaquín,Bajo
+13203,San José de Maipo,Bajo
+13130,San Miguel,Bajo
+13505,San Pedro,Bajo
+13131,San Ramón,Bajo
+13101,Santiago,Bajo
+13601,Talagante,Bajo
+13303,Til Til,Bajo
+13132,Vitacura,Bajo
+6302,Chépica,Bajo
+6303,Chimbarongo,Bajo
+6102,Codegua,Bajo
+6103,Coinco,Bajo
+6104,Coltauco,Bajo
+6105,Doñihue,Bajo
+6106,Graneros,Bajo
+6202,La Estrella,Bajo
+6107,Las Cabras,Bajo
+6203,Litueche,Bajo
+6304,Lolol,Bajo
+6108,Machalí,Bajo
+6109,Malloa,Bajo
+6204,Marchihue,Bajo
+6110,Mostazal,Bajo
+6305,Nancagua,Bajo
+6205,Navidad,Bajo
+6111,Olivar,Bajo
+6306,Palmilla,Bajo
+6206,Paredones,Bajo
+6307,Peralillo,Bajo
+6112,Peumo,Bajo
+6113,Pichidegua,Bajo
+6201,Pichilemu,Bajo
+6308,Placilla,Bajo
+6309,Pumanque,Bajo
+6114,Quinta de Tilcoco,Bajo
+6101,Rancagua,Bajo
+6115,Rengo,Bajo
+6116,Requínoa,Bajo
+6301,San Fernando,Bajo
+6117,San Vicente,Bajo
+6310,Santa Cruz,Bajo
+7201,Cauquenes,Bajo
+7202,Chanco,Bajo
+7402,Colbún,Bajo
+7102,Constitución,Bajo
+7103,Curepto,Bajo
+7301,Curicó,Bajo
+7104,Empedrado,Bajo
+7302,Hualañé,Bajo
+7303,Licantén,Bajo
+7401,Linares,Bajo
+7403,Longaví,Bajo
+7105,Maule,Bajo
+7304,Molina,Bajo
+7404,Parral,Bajo
+7106,Pelarco,Bajo
+7203,Pelluhue,Bajo
+7107,Pencahue,Bajo
+7305,Rauco,Bajo
+7405,Retiro,Bajo
+7108,Río Claro,Bajo
+7306,Romeral,Bajo
+7307,Sagrada Familia,Bajo
+7109,San Clemente,Bajo
+7406,San Javier,Bajo
+7110,San Rafael,Bajo
+7101,Talca,Bajo
+7308,Teno,Bajo
+7309,Vichuquén,Bajo
+7407,Villa Alegre,Bajo
+7408,Yerbas Buenas,Bajo
+16102,Bulnes,Bajo
+16101,Chillán,Bajo
+16103,Chillán Viejo,Bajo
+16202,Cobquecura,Bajo
+16203,Coelemu,Bajo
+16302,Coihueco,Bajo
+16104,El Carmen,Bajo
+16204,Ninhue,Bajo
+16303,Ñiquén,Bajo
+16105,Pemuco,Bajo
+16106,Pinto,Bajo
+16205,Portezuelo,Bajo
+16107,Quillón,Bajo
+16201,Quirihue,Bajo
+16206,Ránquil,Bajo
+16301,San Carlos,Bajo
+16304,San Fabián,Bajo
+16108,San Ignacio,Bajo
+16305,San Nicolás,Bajo
+16207,Trehuaco,Bajo
+16109,Yungay,Bajo
+8314,Alto Biobío,Bajo
+8302,Antuco,Bajo
+8202,Arauco,Bajo
+8303,Cabrero,Bajo
+8203,Cañete,Bajo
+8103,Chiguayante,Bajo
+8101,Concepción,Bajo
+8204,Contulmo,Bajo
+8102,Coronel,Bajo
+8205,Curanilahue,Bajo
+8104,Florida,Bajo
+8112,Hualpén,Bajo
+8105,Hualqui,Bajo
+8304,Laja,Bajo
+8201,Lebu,Bajo
+8206,Los Álamos,Bajo
+8301,Los Ángeles,Bajo
+8106,Lota,Bajo
+8305,Mulchén,Bajo
+8306,Nacimiento,Bajo
+8307,Negrete,Bajo
+8107,Penco,Bajo
+8308,Quilaco,Bajo
+8309,Quilleco,Bajo
+8108,San Pedro de la Paz,Bajo
+8310,San Rosendo,Bajo
+8311,Santa Bárbara,Bajo
+8109,Santa Juana,Bajo
+8110,Talcahuano,Bajo
+8207,Tirúa,Bajo
+8111,Tomé,Bajo
+8312,Tucapel,Bajo
+8313,Yumbel,Bajo
+9201,Angol,Bajo
+9102,Carahue,Bajo
+9121,Cholchol,Bajo
+9202,Collipulli,Bajo
+9103,Cunco,Bajo
+9203,Curacautín,Bajo
+9104,Curarrehue,Bajo
+9204,Ercilla,Bajo
+9105,Freire,Bajo
+9106,Galvarino,Bajo
+9107,Gorbea,Bajo
+9108,Lautaro,Bajo
+9109,Loncoche,Bajo
+9205,Lonquimay,Bajo
+9206,Los Sauces,Bajo
+9207,Lumaco,Bajo
+9110,Melipeuco,Bajo
+9111,Nueva Imperial,Bajo
+9112,Padre Las Casas,Bajo
+9113,Perquenco,Bajo
+9114,Pitrufquén,Bajo
+9115,Pucón,Bajo
+9208,Purén,Bajo
+9209,Renaico,Bajo
+9116,Saavedra,Bajo
+9101,Temuco,Bajo
+9117,Teodoro Schmidt,Bajo
+9118,Toltén,Bajo
+9210,Traiguén,Bajo
+9211,Victoria,Bajo
+9119,Vilcún,Bajo
+9120,Villarrica,Bajo
+14102,Corral,Bajo
+14202,Futrono,Bajo
+14201,La Unión,Bajo
+14203,Lago Ranco,Bajo
+14103,Lanco,Bajo
+14104,Los Lagos,Bajo
+14105,Máfil,Bajo
+14106,Mariquina,Bajo
+14107,Paillaco,Bajo
+14108,Panguipulli,Bajo
+14204,Río Bueno,Bajo
+14101,Valdivia,Bajo
+10202,Ancud,Bajo
+10102,Calbuco,Bajo
+10201,Castro,Bajo
+10401,Chaitén,Medio
+10203,Chonchi,Bajo
+10103,Cochamó,Bajo
+10204,Curaco de Vélez,Bajo
+10205,Dalcahue,Bajo
+10104,Fresia,Bajo
+10105,Frutillar,Bajo
+10402,Futaleufú,Medio
+10403,Hualaihué,Medio
+10107,Llanquihue,Bajo
+10106,Los Muermos,Bajo
+10108,Maullín,Bajo
+10301,Osorno,Bajo
+10404,Palena,Medio
+10101,Puerto Montt,Bajo
+10302,Puerto Octay,Bajo
+10109,Puerto Varas,Bajo
+10206,Puqueldón,Bajo
+10303,Purranque,Bajo
+10304,Puyehue,Bajo
+10207,Queilén,Bajo
+10208,Quellón,Bajo
+10209,Quemchi,Bajo
+10210,Quinchao,Bajo
+10305,Río Negro,Bajo
+10306,San Juan de la Costa,Bajo
+10307,San Pablo,Bajo
+11201,Aysén,Bajo
+11401,Chile Chico,Bajo
+11202,Cisnes,Bajo
+11301,Cochrane,Bajo
+11101,Coyhaique,Bajo
+11203,Guaitecas,Bajo
+11102,Lago Verde,Bajo
+11302,O'Higgins,Bajo
+11402,Río Ibáñez,Bajo
+11303,Tortel,Bajo
+12202,Antártica,Bajo
+12201,Cabo de Hornos,Bajo
+12102,Laguna Blanca,Bajo
+12401,Natales,Bajo
+12301,Porvenir,Bajo
+12302,Primavera,Bajo
+12101,Punta Arenas,Bajo
+12103,Río Verde,Bajo
+12104,San Gregorio,Bajo
+12303,Timaukel,Bajo
+12402,Torres del Paine,Bajo

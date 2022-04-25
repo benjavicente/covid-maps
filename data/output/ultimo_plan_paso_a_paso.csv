@@ -1,24 +1,24 @@
 codigo,nombre,paso_a_paso
-15101,Arica,Medio
-15102,Camarones,Medio
+15101,Arica,Bajo
+15102,Camarones,Bajo
 15202,General Lagos,Medio
 15201,Putre,Medio
-1107,Alto Hospicio,Bajo
+1107,Alto Hospicio,Medio
 1402,Camiña,Medio
 1403,Colchane,Medio
 1404,Huara,Medio
-1101,Iquique,Bajo
+1101,Iquique,Medio
 1405,Pica,Medio
 1401,Pozo Almonte,Medio
 2101,Antofagasta,Bajo
 2201,Calama,Bajo
-2302,María Elena,Bajo
+2302,María Elena,Medio
 2102,Mejillones,Bajo
 2202,Ollagüe,Bajo
 2203,San Pedro de Atacama,Bajo
 2103,Sierra Gorda,Bajo
 2104,Taltal,Bajo
-2301,Tocopilla,Bajo
+2301,Tocopilla,Medio
 3302,Alto del Carmen,Bajo
 3102,Caldera,Bajo
 3201,Chañaral,Bajo
@@ -297,20 +297,20 @@ codigo,nombre,paso_a_paso
 10202,Ancud,Bajo
 10102,Calbuco,Bajo
 10201,Castro,Bajo
-10401,Chaitén,Medio
+10401,Chaitén,Bajo
 10203,Chonchi,Bajo
 10103,Cochamó,Bajo
 10204,Curaco de Vélez,Bajo
 10205,Dalcahue,Bajo
 10104,Fresia,Bajo
 10105,Frutillar,Bajo
-10402,Futaleufú,Medio
-10403,Hualaihué,Medio
+10402,Futaleufú,Bajo
+10403,Hualaihué,Bajo
 10107,Llanquihue,Bajo
 10106,Los Muermos,Bajo
 10108,Maullín,Bajo
 10301,Osorno,Bajo
-10404,Palena,Medio
+10404,Palena,Bajo
 10101,Puerto Montt,Bajo
 10302,Puerto Octay,Bajo
 10109,Puerto Varas,Bajo

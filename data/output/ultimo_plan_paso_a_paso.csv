@@ -1,23 +1,23 @@
 codigo,nombre,paso_a_paso
-15101,Arica,Bajo
-15102,Camarones,Bajo
+15101,Arica,Medio
+15102,Camarones,Medio
 15202,General Lagos,Medio
 15201,Putre,Medio
 1107,Alto Hospicio,Medio
-1402,Camiña,Medio
-1403,Colchane,Medio
-1404,Huara,Medio
+1402,Camiña,Bajo
+1403,Colchane,Bajo
+1404,Huara,Bajo
 1101,Iquique,Medio
-1405,Pica,Medio
-1401,Pozo Almonte,Medio
-2101,Antofagasta,Bajo
+1405,Pica,Bajo
+1401,Pozo Almonte,Bajo
+2101,Antofagasta,Medio
 2201,Calama,Bajo
 2302,María Elena,Medio
-2102,Mejillones,Bajo
+2102,Mejillones,Medio
 2202,Ollagüe,Bajo
 2203,San Pedro de Atacama,Bajo
-2103,Sierra Gorda,Bajo
-2104,Taltal,Bajo
+2103,Sierra Gorda,Medio
+2104,Taltal,Medio
 2301,Tocopilla,Medio
 3302,Alto del Carmen,Bajo
 3102,Caldera,Bajo
@@ -338,10 +338,10 @@ codigo,nombre,paso_a_paso
 12201,Cabo de Hornos,Bajo
 12102,Laguna Blanca,Bajo
 12401,Natales,Bajo
-12301,Porvenir,Bajo
-12302,Primavera,Bajo
+12301,Porvenir,Medio
+12302,Primavera,Medio
 12101,Punta Arenas,Bajo
 12103,Río Verde,Bajo
 12104,San Gregorio,Bajo
-12303,Timaukel,Bajo
+12303,Timaukel,Medio
 12402,Torres del Paine,Bajo

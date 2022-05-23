@@ -28,21 +28,21 @@ codigo,nombre,paso_a_paso
 3304,Huasco,Medio
 3103,Tierra Amarilla,Medio
 3301,Vallenar,Medio
-4103,Andacollo,Bajo
+4103,Andacollo,Medio
 4202,Canela,Bajo
 4302,Combarbalá,Bajo
-4102,Coquimbo,Bajo
+4102,Coquimbo,Medio
 4201,Illapel,Bajo
-4104,La Higuera,Bajo
-4101,La Serena,Bajo
+4104,La Higuera,Medio
+4101,La Serena,Medio
 4203,Los Vilos,Bajo
 4303,Monte Patria,Bajo
 4301,Ovalle,Bajo
-4105,Paihuano,Bajo
+4105,Paihuano,Medio
 4304,Punitaqui,Bajo
 4305,Río Hurtado,Bajo
 4204,Salamanca,Bajo
-4106,Vicuña,Bajo
+4106,Vicuña,Medio
 5602,Algarrobo,Bajo
 5402,Cabildo,Bajo
 5502,La Calera,Bajo
@@ -58,18 +58,18 @@ codigo,nombre,paso_a_paso
 5104,Juan Fernández,Bajo
 5504,La Cruz,Bajo
 5401,La Ligua,Bajo
-5802,Limache,Bajo
+5802,Limache,Medio
 5703,Llay-Llay,Medio
 5301,Los Andes,Bajo
 5506,Nogales,Bajo
-5803,Olmué,Bajo
+5803,Olmué,Medio
 5704,Panquehue,Medio
 5403,Papudo,Bajo
 5404,Petorca,Bajo
 5105,Puchuncaví,Bajo
 5705,Putaendo,Medio
 5501,Quillota,Bajo
-5801,Quilpué,Bajo
+5801,Quilpué,Medio
 5107,Quintero,Bajo
 5303,Rinconada,Bajo
 5601,San Antonio,Bajo
@@ -78,7 +78,7 @@ codigo,nombre,paso_a_paso
 5706,Santa Maria,Medio
 5606,Santo Domingo,Bajo
 5101,Valparaiso,Bajo
-5804,Villa Alemana,Bajo
+5804,Villa Alemana,Medio
 5109,Viña del Mar,Bajo
 5405,Zapallar,Bajo
 13502,Alhué,Medio
@@ -294,14 +294,14 @@ codigo,nombre,paso_a_paso
 14108,Panguipulli,Bajo
 14204,Río Bueno,Bajo
 14101,Valdivia,Bajo
-10202,Ancud,Bajo
+10202,Ancud,Medio
 10102,Calbuco,Medio
-10201,Castro,Bajo
+10201,Castro,Medio
 10401,Chaitén,Bajo
-10203,Chonchi,Bajo
+10203,Chonchi,Medio
 10103,Cochamó,Medio
-10204,Curaco de Vélez,Bajo
-10205,Dalcahue,Bajo
+10204,Curaco de Vélez,Medio
+10205,Dalcahue,Medio
 10104,Fresia,Medio
 10105,Frutillar,Medio
 10402,Futaleufú,Bajo
@@ -314,13 +314,13 @@ codigo,nombre,paso_a_paso
 10101,Puerto Montt,Medio
 10302,Puerto Octay,Bajo
 10109,Puerto Varas,Medio
-10206,Puqueldón,Bajo
+10206,Puqueldón,Medio
 10303,Purranque,Bajo
 10304,Puyehue,Bajo
-10207,Queilén,Bajo
-10208,Quellón,Bajo
-10209,Quemchi,Bajo
-10210,Quinchao,Bajo
+10207,Queilén,Medio
+10208,Quellón,Medio
+10209,Quemchi,Medio
+10210,Quinchao,Medio
 10305,Río Negro,Bajo
 10306,San Juan de la Costa,Bajo
 10307,San Pablo,Bajo

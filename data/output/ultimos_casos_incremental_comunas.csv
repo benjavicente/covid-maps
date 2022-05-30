@@ -1,343 +1,343 @@
 nombre,codigo,casos_totales
-Arica,15101,59701
-Camarones,15102,178
+Arica,15101,59975
+Camarones,15102,180
 General Lagos,15202,100
-Putre,15201,428
-Alto Hospicio,1107,25931
+Putre,15201,427
+Alto Hospicio,1107,25980
 Camina,1402,316
 Colchane,1403,907
 Huara,1404,700
-Iquique,1101,55116
-Pica,1405,1882
-Pozo Almonte,1401,4033
-Antofagasta,2101,79366
-Calama,2201,35785
-Maria Elena,2302,1148
-Mejillones,2102,3279
+Iquique,1101,55300
+Pica,1405,1886
+Pozo Almonte,1401,4040
+Antofagasta,2101,79931
+Calama,2201,36007
+Maria Elena,2302,1149
+Mejillones,2102,3285
 Ollague,2202,194
-San Pedro de Atacama,2203,2326
-Sierra Gorda,2103,371
-Taltal,2104,2317
-Tocopilla,2301,4633
-Alto del Carmen,3302,724
-Caldera,3102,5065
-Chanaral,3201,2416
-Copiapo,3101,37304
-Diego de Almagro,3202,3353
-Freirina,3303,1684
-Huasco,3304,2179
-Tierra Amarilla,3103,3688
-Vallenar,3301,12131
-Andacollo,4103,1764
-Canela,4202,1111
-Combarbala,4302,2243
-Coquimbo,4102,42871
-Illapel,4201,5888
+San Pedro de Atacama,2203,2349
+Sierra Gorda,2103,395
+Taltal,2104,2324
+Tocopilla,2301,4647
+Alto del Carmen,3302,726
+Caldera,3102,5094
+Chanaral,3201,2419
+Copiapo,3101,37573
+Diego de Almagro,3202,3413
+Freirina,3303,1700
+Huasco,3304,2208
+Tierra Amarilla,3103,3715
+Vallenar,3301,12335
+Andacollo,4103,1777
+Canela,4202,1118
+Combarbala,4302,2281
+Coquimbo,4102,43160
+Illapel,4201,5988
 La Higuera,4104,797
-La Serena,4101,42501
-Los Vilos,4203,4134
-Monte Patria,4303,4340
-Ovalle,4301,21336
-Paiguano,4105,1047
-Punitaqui,4304,2002
-Rio Hurtado,4305,585
-Salamanca,4204,4541
-Vicuna,4106,4668
-Algarrobo,5602,3855
-Cabildo,5402,3120
-Calera,5502,9097
-Calle Larga,5302,3308
-Cartagena,5603,5613
-Casablanca,5102,5683
-Catemu,5702,2956
-Concon,5103,9185
-El Quisco,5604,3972
-El Tabo,5605,3897
-Hijuelas,5503,2984
+La Serena,4101,42940
+Los Vilos,4203,4184
+Monte Patria,4303,4376
+Ovalle,4301,21535
+Paiguano,4105,1094
+Punitaqui,4304,2027
+Rio Hurtado,4305,587
+Salamanca,4204,4614
+Vicuna,4106,4694
+Algarrobo,5602,3883
+Cabildo,5402,3163
+Calera,5502,9220
+Calle Larga,5302,3405
+Cartagena,5603,5659
+Casablanca,5102,5772
+Catemu,5702,3030
+Concon,5103,9318
+El Quisco,5604,4025
+El Tabo,5605,3953
+Hijuelas,5503,3002
 Isla de Pascua,5201,39
 Juan Fernandez,5104,7
-La Cruz,5504,3909
-La Ligua,5401,6884
-Limache,5802,8443
-Llaillay,5703,5091
-Los Andes,5301,15944
-Nogales,5506,3475
-Olmue,5803,3504
-Panquehue,5704,1535
-Papudo,5403,1315
-Petorca,5404,1956
-Puchuncavi,5105,4085
-Putaendo,5705,3425
-Quillota,5501,18279
-Quilpue,5801,29069
-Quintero,5107,6742
-Rinconada,5303,2523
-San Antonio,5601,18899
-San Esteban,5304,4532
-San Felipe,5701,16355
-Santa Maria,5706,3132
-Valparaiso,5101,66572
-Villa Alemana,5804,23136
-Vina del Mar,5109,70551
-Zapallar,5405,2049
-Alhue,13502,1593
-Buin,13402,21701
-Calera de Tango,13403,4847
-Cerrillos,13102,15768
-Cerro Navia,13103,28715
-Colina,13301,31579
-Conchali,13104,25555
-Curacavi,13503,7919
-El Bosque,13105,35220
-El Monte,13602,7205
-Estacion Central,13106,33104
-Huechuraba,13107,20388
-Independencia,13108,24584
-Isla de Maipo,13603,8484
-La Cisterna,13109,18798
-La Florida,13110,78984
-La Granja,13111,25770
-La Pintana,13112,36916
-La Reina,13113,17742
-Lampa,13302,20671
-Las Condes,13114,55346
-Lo Barnechea,13115,21890
-Lo Espejo,13116,18334
-Lo Prado,13117,22454
-Macul,13118,26708
-Maipu,13119,95159
-Maria Pinto,13504,3260
-Melipilla,13501,23487
-Nunoa,13120,43353
-Padre Hurtado,13604,15508
-Paine,13404,14997
-Pedro Aguirre Cerda,13121,22040
-Penaflor,13605,18740
-Penalolen,13122,58971
-Pirque,13202,6479
-Providencia,13123,28112
-Pudahuel,13124,50135
-Puente Alto,13201,126910
-Quilicura,13125,41679
-Quinta Normal,13126,28902
-Recoleta,13127,31862
-Renca,13128,36908
-San Bernardo,13401,60137
-San Joaquin,13129,22361
-San Jose de Maipo,13203,3559
-San Miguel,13130,31840
-San Pedro,13505,1891
-San Ramon,13131,16927
-Santiago,13101,102942
-Talagante,13601,13038
-Tiltil,13303,3749
-Vitacura,13132,14652
-Chepica,6302,2316
-Chimbarongo,6303,4901
-Codegua,6102,2256
-Coinco,6103,1191
-Coltauco,6104,3001
-Donihue,6105,3716
-Graneros,6106,6237
-La Estrella,6202,425
-Las Cabras,6107,5127
-Litueche,6203,1323
-Lolol,6304,835
-Machali,6108,9719
-Malloa,6109,2113
-Marchihue,6204,1044
-Mostazal,6110,4492
-Nancagua,6305,3040
-Navidad,6205,1311
-Olivar,6111,2534
-Palmilla,6306,1989
-Paredones,6206,1047
-Peralillo,6307,1887
-Peumo,6112,2524
-Pichidegua,6113,3014
-Pichilemu,6201,3002
-Placilla,6308,1672
-Pumanque,6309,551
-Quinta de Tilcoco,6114,1872
-Rancagua,6101,52017
-Rengo,6115,11489
-Requinoa,6116,4904
-San Fernando,6301,13399
-San Vicente,6117,8695
-Santa Cruz,6310,7330
-Cauquenes,7201,9311
-Chanco,7202,1363
-Colbun,7402,5836
-Constitucion,7102,10518
-Curepto,7103,1591
-Curico,7301,38697
-Empedrado,7104,1078
-Hualane,7302,1937
-Licanten,7303,1456
-Linares,7401,23892
-Longavi,7403,7338
-Maule,7105,11536
-Molina,7304,10477
-Parral,7404,10364
-Pelarco,7106,2283
-Pelluhue,7203,2006
-Pencahue,7107,1867
-Rauco,7305,2547
-Retiro,7405,4428
-Rio Claro,7108,3284
-Romeral,7306,3910
-Sagrada Familia,7307,3527
-San Clemente,7109,10141
-San Javier,7406,11374
-San Rafael,7110,2819
-Talca,7101,57140
-Teno,7308,6292
-Vichuquen,7309,693
-Villa Alegre,7407,3790
-Yerbas Buenas,7408,4046
-Bulnes,16102,4987
-Chillan,16101,50589
-Chillan Viejo,16103,5977
-Cobquecura,16202,722
-Coelemu,16203,3231
-Coihueco,16302,5093
-El Carmen,16104,2396
-Ninhue,16204,1078
-Niquen,16303,2304
-Pemuco,16105,1683
-Pinto,16106,2209
-Portezuelo,16205,915
-Quillon,16107,3869
-Quirihue,16201,1968
-Ranquil,16206,1236
-San Carlos,16301,12874
-San Fabian,16304,1001
-San Ignacio,16108,3200
-San Nicolas,16305,2711
-Treguaco,16207,1154
-Yungay,16109,4130
-Alto Biobio,8314,1371
-Antuco,8302,842
-Arauco,8202,11427
-Cabrero,8303,6566
-Canete,8203,8346
-Chiguayante,8103,21514
-Concepcion,8101,59686
-Contulmo,8204,1444
-Coronel,8102,29607
-Curanilahue,8205,8214
-Florida,8104,2311
-Hualpen,8112,25295
-Hualqui,8105,6208
-Laja,8304,4466
-Lebu,8201,5769
-Los Alamos,8206,5731
-Los Angeles,8301,54511
-Lota,8106,11103
-Mulchen,8305,7002
-Nacimiento,8306,5610
-Negrete,8307,2453
-Penco,8107,12352
-Quilaco,8308,804
-Quilleco,8309,2198
-San Pedro de la Paz,8108,30814
-San Rosendo,8310,698
-Santa Barbara,8311,3207
-Santa Juana,8109,3250
-Talcahuano,8110,38286
-Tirua,8207,2292
-Tome,8111,14976
-Yumbel,8313,4334
-Angol,9201,13100
-Carahue,9102,5017
-Cholchol,9121,2084
-Collipulli,9202,6575
-Cunco,9103,4004
-Curacautin,9203,2954
-Curarrehue,9104,1978
-Ercilla,9204,2118
-Freire,9105,4795
+La Cruz,5504,3974
+La Ligua,5401,6956
+Limache,5802,8556
+Llaillay,5703,5171
+Los Andes,5301,16512
+Nogales,5506,3514
+Olmue,5803,3535
+Panquehue,5704,1589
+Papudo,5403,1334
+Petorca,5404,2005
+Puchuncavi,5105,4144
+Putaendo,5705,3530
+Quillota,5501,18590
+Quilpue,5801,29524
+Quintero,5107,6818
+Rinconada,5303,2587
+San Antonio,5601,19238
+San Esteban,5304,4732
+San Felipe,5701,16806
+Santa Maria,5706,3222
+Valparaiso,5101,67345
+Villa Alemana,5804,23506
+Vina del Mar,5109,71416
+Zapallar,5405,2105
+Alhue,13502,1635
+Buin,13402,22070
+Calera de Tango,13403,4946
+Cerrillos,13102,16004
+Cerro Navia,13103,28962
+Colina,13301,32206
+Conchali,13104,25937
+Curacavi,13503,8060
+El Bosque,13105,35639
+El Monte,13602,7266
+Estacion Central,13106,33439
+Huechuraba,13107,20772
+Independencia,13108,24831
+Isla de Maipo,13603,8641
+La Cisterna,13109,19090
+La Florida,13110,80180
+La Granja,13111,25962
+La Pintana,13112,37100
+La Reina,13113,18259
+Lampa,13302,20945
+Las Condes,13114,57174
+Lo Barnechea,13115,22499
+Lo Espejo,13116,18529
+Lo Prado,13117,22718
+Macul,13118,27181
+Maipu,13119,97059
+Maria Pinto,13504,3318
+Melipilla,13501,23676
+Nunoa,13120,44585
+Padre Hurtado,13604,15752
+Paine,13404,15182
+Pedro Aguirre Cerda,13121,22258
+Penaflor,13605,19100
+Penalolen,13122,59985
+Pirque,13202,6605
+Providencia,13123,29071
+Pudahuel,13124,50815
+Puente Alto,13201,128591
+Quilicura,13125,42249
+Quinta Normal,13126,29237
+Recoleta,13127,32209
+Renca,13128,37246
+San Bernardo,13401,60894
+San Joaquin,13129,22648
+San Jose de Maipo,13203,3612
+San Miguel,13130,32438
+San Pedro,13505,1904
+San Ramon,13131,17049
+Santiago,13101,104994
+Talagante,13601,13322
+Tiltil,13303,3842
+Vitacura,13132,15084
+Chepica,6302,2332
+Chimbarongo,6303,4934
+Codegua,6102,2268
+Coinco,6103,1199
+Coltauco,6104,3023
+Donihue,6105,3743
+Graneros,6106,6271
+La Estrella,6202,438
+Las Cabras,6107,5151
+Litueche,6203,1348
+Lolol,6304,847
+Machali,6108,9913
+Malloa,6109,2124
+Marchihue,6204,1058
+Mostazal,6110,4532
+Nancagua,6305,3058
+Navidad,6205,1325
+Olivar,6111,2553
+Palmilla,6306,2002
+Paredones,6206,1052
+Peralillo,6307,1900
+Peumo,6112,2536
+Pichidegua,6113,3020
+Pichilemu,6201,3037
+Placilla,6308,1677
+Pumanque,6309,552
+Quinta de Tilcoco,6114,1878
+Rancagua,6101,52697
+Rengo,6115,11537
+Requinoa,6116,4944
+San Fernando,6301,13466
+San Vicente,6117,8760
+Santa Cruz,6310,7410
+Cauquenes,7201,9366
+Chanco,7202,1371
+Colbun,7402,5893
+Constitucion,7102,10566
+Curepto,7103,1602
+Curico,7301,39082
+Empedrado,7104,1083
+Hualane,7302,1947
+Licanten,7303,1471
+Linares,7401,24091
+Longavi,7403,7369
+Maule,7105,11697
+Molina,7304,10549
+Parral,7404,10398
+Pelarco,7106,2321
+Pelluhue,7203,2012
+Pencahue,7107,1893
+Rauco,7305,2575
+Retiro,7405,4451
+Rio Claro,7108,3307
+Romeral,7306,3942
+Sagrada Familia,7307,3577
+San Clemente,7109,10221
+San Javier,7406,11516
+San Rafael,7110,2838
+Talca,7101,57908
+Teno,7308,6320
+Vichuquen,7309,707
+Villa Alegre,7407,3835
+Yerbas Buenas,7408,4063
+Bulnes,16102,5007
+Chillan,16101,51045
+Chillan Viejo,16103,6028
+Cobquecura,16202,727
+Coelemu,16203,3247
+Coihueco,16302,5121
+El Carmen,16104,2423
+Ninhue,16204,1088
+Niquen,16303,2322
+Pemuco,16105,1703
+Pinto,16106,2248
+Portezuelo,16205,921
+Quillon,16107,3877
+Quirihue,16201,1979
+Ranquil,16206,1249
+San Carlos,16301,13002
+San Fabian,16304,1021
+San Ignacio,16108,3258
+San Nicolas,16305,2732
+Treguaco,16207,1156
+Yungay,16109,4143
+Alto Biobio,8314,1372
+Antuco,8302,859
+Arauco,8202,11464
+Cabrero,8303,6599
+Canete,8203,8352
+Chiguayante,8103,21715
+Concepcion,8101,60350
+Contulmo,8204,1464
+Coronel,8102,29734
+Curanilahue,8205,8219
+Florida,8104,2332
+Hualpen,8112,25501
+Hualqui,8105,6238
+Laja,8304,4486
+Lebu,8201,5794
+Los Alamos,8206,5741
+Los Angeles,8301,54932
+Lota,8106,11184
+Mulchen,8305,7033
+Nacimiento,8306,5621
+Negrete,8307,2481
+Penco,8107,12434
+Quilaco,8308,810
+Quilleco,8309,2215
+San Pedro de la Paz,8108,31107
+San Rosendo,8310,701
+Santa Barbara,8311,3216
+Santa Juana,8109,3265
+Talcahuano,8110,38539
+Tirua,8207,2294
+Tome,8111,15160
+Yumbel,8313,4345
+Angol,9201,13115
+Carahue,9102,5024
+Cholchol,9121,2090
+Collipulli,9202,6606
+Cunco,9103,4013
+Curacautin,9203,2959
+Curarrehue,9104,1986
+Ercilla,9204,2124
+Freire,9105,4805
 Galvarino,9106,3426
-Gorbea,9107,2911
-Lautaro,9108,8467
-Loncoche,9109,4409
-Lonquimay,9205,2396
-Los Sauces,9206,1723
-Lumaco,9207,1857
-Melipeuco,9110,1300
-Nueva Imperial,9111,6565
-Padre Las Casas,9112,18202
-Perquenco,9113,1983
-Pitrufquen,9114,5732
-Pucon,9115,7579
-Puren,9208,2591
-Renaico,9209,3042
-Saavedra,9116,2974
-Temuco,9101,73414
-Teodoro Schmidt,9117,3021
-Tolten,9118,2450
-Traiguen,9210,3974
-Victoria,9211,7696
-Vilcun,9119,6556
-Corral,14102,1503
-Futrono,14202,5077
-La Union,14201,9900
-Lago Ranco,14203,3072
-Lanco,14103,5325
-Los Lagos,14104,5887
-Mafil,14105,2215
-Mariquina,14106,6627
-Paillaco,14107,5175
-Panguipulli,14108,11033
-Rio Bueno,14204,7002
-Valdivia,14101,50616
-Ancud,10202,8617
-Calbuco,10102,8425
-Castro,10201,11536
-Chaiten,10401,820
-Chonchi,10203,3440
+Gorbea,9107,2916
+Lautaro,9108,8474
+Loncoche,9109,4414
+Lonquimay,9205,2412
+Los Sauces,9206,1726
+Lumaco,9207,1860
+Melipeuco,9110,1305
+Nueva Imperial,9111,6575
+Padre Las Casas,9112,18259
+Perquenco,9113,1988
+Pitrufquen,9114,5764
+Pucon,9115,7610
+Puren,9208,2594
+Renaico,9209,3046
+Saavedra,9116,2978
+Temuco,9101,73834
+Teodoro Schmidt,9117,3024
+Tolten,9118,2470
+Traiguen,9210,3979
+Victoria,9211,7721
+Vilcun,9119,6576
+Corral,14102,1504
+Futrono,14202,5082
+La Union,14201,9914
+Lago Ranco,14203,3073
+Lanco,14103,5342
+Los Lagos,14104,5893
+Mafil,14105,2221
+Mariquina,14106,6645
+Paillaco,14107,5183
+Panguipulli,14108,11066
+Rio Bueno,14204,7019
+Valdivia,14101,50883
+Ancud,10202,8628
+Calbuco,10102,8440
+Castro,10201,11544
+Chaiten,10401,824
+Chonchi,10203,3442
 Cochamo,10103,746
 Curaco de Velez,10204,840
-Dalcahue,10205,3535
-Fresia,10104,2636
-Frutillar,10105,5544
+Dalcahue,10205,3542
+Fresia,10104,2638
+Frutillar,10105,5554
 Futaleufu,10402,645
-Hualaihue,10403,1963
-Llanquihue,10107,4658
-Los Muermos,10106,3528
-Maullin,10108,3350
-Osorno,10301,45176
+Hualaihue,10403,1964
+Llanquihue,10107,4663
+Los Muermos,10106,3529
+Maullin,10108,3351
+Osorno,10301,45262
 Palena,10404,543
-Puerto Montt,10101,63541
-Puerto Octay,10302,2265
-Puerto Varas,10109,10543
+Puerto Montt,10101,63704
+Puerto Octay,10302,2270
+Puerto Varas,10109,10586
 Puqueldon,10206,1109
-Purranque,10303,4737
-Puyehue,10304,3110
-Queilen,10207,1147
-Quellon,10208,6375
-Quemchi,10209,1774
-Quinchao,10210,1638
-Rio Negro,10305,3867
-San Juan de la Costa,10306,2203
-San Pablo,10307,3100
-Aysen,11201,6175
-Chile Chico,11401,1218
-Cisnes,11202,1503
+Purranque,10303,4738
+Puyehue,10304,3113
+Queilen,10207,1148
+Quellon,10208,6379
+Quemchi,10209,1781
+Quinchao,10210,1639
+Rio Negro,10305,3871
+San Juan de la Costa,10306,2212
+San Pablo,10307,3114
+Aysen,11201,6190
+Chile Chico,11401,1219
+Cisnes,11202,1523
 Cochrane,11301,1038
-Coyhaique,11101,15722
-Guaitecas,11203,493
-Lago Verde,11102,156
+Coyhaique,11101,15773
+Guaitecas,11203,496
+Lago Verde,11102,157
 OHiggins,11302,116
-Rio Ibanez,11402,575
+Rio Ibanez,11402,576
 Tortel,11303,115
 Antartica,12202,63
-Cabo de Hornos,12201,537
+Cabo de Hornos,12201,543
 Laguna Blanca,12102,48
-Natales,12401,9386
-Porvenir,12301,2084
+Natales,12401,9468
+Porvenir,12301,2101
 Primavera,12302,84
-Punta Arenas,12101,43946
+Punta Arenas,12101,44198
 Rio Verde,12103,30
 San Gregorio,12104,138
 Timaukel,12303,52

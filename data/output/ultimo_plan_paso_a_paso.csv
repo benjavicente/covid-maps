@@ -30,17 +30,17 @@ codigo,nombre,paso_a_paso
 3301,Vallenar,Medio
 4103,Andacollo,Medio
 4202,Canela,Bajo
-4302,Combarbalá,Bajo
+4302,Combarbalá,Medio
 4102,Coquimbo,Medio
 4201,Illapel,Bajo
 4104,La Higuera,Medio
 4101,La Serena,Medio
 4203,Los Vilos,Bajo
-4303,Monte Patria,Bajo
-4301,Ovalle,Bajo
+4303,Monte Patria,Medio
+4301,Ovalle,Medio
 4105,Paihuano,Medio
-4304,Punitaqui,Bajo
-4305,Río Hurtado,Bajo
+4304,Punitaqui,Medio
+4305,Río Hurtado,Medio
 4204,Salamanca,Bajo
 4106,Vicuña,Medio
 5602,Algarrobo,Bajo
@@ -48,9 +48,9 @@ codigo,nombre,paso_a_paso
 5502,La Calera,Bajo
 5302,Calle Larga,Bajo
 5603,Cartagena,Bajo
-5102,Casablanca,Bajo
+5102,Casablanca,Medio
 5702,Catemu,Medio
-5103,Concón,Bajo
+5103,Concón,Medio
 5604,El Quisco,Bajo
 5605,El Tabo,Bajo
 5503,Hijuelas,Bajo
@@ -66,20 +66,20 @@ codigo,nombre,paso_a_paso
 5704,Panquehue,Medio
 5403,Papudo,Bajo
 5404,Petorca,Bajo
-5105,Puchuncaví,Bajo
+5105,Puchuncaví,Medio
 5705,Putaendo,Medio
 5501,Quillota,Bajo
 5801,Quilpué,Medio
-5107,Quintero,Bajo
+5107,Quintero,Medio
 5303,Rinconada,Bajo
 5601,San Antonio,Bajo
 5304,San Esteban,Bajo
 5701,San Felipe,Medio
 5706,Santa Maria,Medio
 5606,Santo Domingo,Bajo
-5101,Valparaiso,Bajo
+5101,Valparaiso,Medio
 5804,Villa Alemana,Medio
-5109,Viña del Mar,Bajo
+5109,Viña del Mar,Medio
 5405,Zapallar,Bajo
 13502,Alhué,Medio
 13402,Buin,Medio
@@ -222,32 +222,32 @@ codigo,nombre,paso_a_paso
 8202,Arauco,Bajo
 8303,Cabrero,Bajo
 8203,Cañete,Bajo
-8103,Chiguayante,Bajo
-8101,Concepción,Bajo
+8103,Chiguayante,Medio
+8101,Concepción,Medio
 8204,Contulmo,Bajo
-8102,Coronel,Bajo
+8102,Coronel,Medio
 8205,Curanilahue,Bajo
-8104,Florida,Bajo
-8112,Hualpén,Bajo
-8105,Hualqui,Bajo
+8104,Florida,Medio
+8112,Hualpén,Medio
+8105,Hualqui,Medio
 8304,Laja,Bajo
 8201,Lebu,Bajo
 8206,Los Álamos,Bajo
 8301,Los Ángeles,Bajo
-8106,Lota,Bajo
+8106,Lota,Medio
 8305,Mulchén,Bajo
 8306,Nacimiento,Bajo
 8307,Negrete,Bajo
-8107,Penco,Bajo
+8107,Penco,Medio
 8308,Quilaco,Bajo
 8309,Quilleco,Bajo
-8108,San Pedro de la Paz,Bajo
+8108,San Pedro de la Paz,Medio
 8310,San Rosendo,Bajo
 8311,Santa Bárbara,Bajo
-8109,Santa Juana,Bajo
-8110,Talcahuano,Bajo
+8109,Santa Juana,Medio
+8110,Talcahuano,Medio
 8207,Tirúa,Bajo
-8111,Tomé,Bajo
+8111,Tomé,Medio
 8312,Tucapel,Bajo
 8313,Yumbel,Bajo
 9201,Angol,Bajo
@@ -309,28 +309,28 @@ codigo,nombre,paso_a_paso
 10107,Llanquihue,Medio
 10106,Los Muermos,Medio
 10108,Maullín,Medio
-10301,Osorno,Bajo
+10301,Osorno,Medio
 10404,Palena,Bajo
 10101,Puerto Montt,Medio
-10302,Puerto Octay,Bajo
+10302,Puerto Octay,Medio
 10109,Puerto Varas,Medio
 10206,Puqueldón,Medio
-10303,Purranque,Bajo
-10304,Puyehue,Bajo
+10303,Purranque,Medio
+10304,Puyehue,Medio
 10207,Queilén,Medio
 10208,Quellón,Medio
 10209,Quemchi,Medio
 10210,Quinchao,Medio
-10305,Río Negro,Bajo
-10306,San Juan de la Costa,Bajo
-10307,San Pablo,Bajo
+10305,Río Negro,Medio
+10306,San Juan de la Costa,Medio
+10307,San Pablo,Medio
 11201,Aysén,Bajo
 11401,Chile Chico,Bajo
 11202,Cisnes,Bajo
 11301,Cochrane,Bajo
-11101,Coyhaique,Bajo
+11101,Coyhaique,Medio
 11203,Guaitecas,Bajo
-11102,Lago Verde,Bajo
+11102,Lago Verde,Medio
 11302,O'Higgins,Bajo
 11402,Río Ibáñez,Bajo
 11303,Tortel,Bajo

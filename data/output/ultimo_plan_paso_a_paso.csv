@@ -11,11 +11,11 @@ codigo,nombre,paso_a_paso
 1405,Pica,Bajo
 1401,Pozo Almonte,Bajo
 2101,Antofagasta,Medio
-2201,Calama,Bajo
+2201,Calama,Medio
 2302,María Elena,Medio
 2102,Mejillones,Medio
-2202,Ollagüe,Bajo
-2203,San Pedro de Atacama,Bajo
+2202,Ollagüe,Medio
+2203,San Pedro de Atacama,Medio
 2103,Sierra Gorda,Medio
 2104,Taltal,Medio
 2301,Tocopilla,Medio
@@ -29,19 +29,19 @@ codigo,nombre,paso_a_paso
 3103,Tierra Amarilla,Medio
 3301,Vallenar,Medio
 4103,Andacollo,Medio
-4202,Canela,Bajo
+4202,Canela,Medio
 4302,Combarbalá,Medio
 4102,Coquimbo,Medio
-4201,Illapel,Bajo
+4201,Illapel,Medio
 4104,La Higuera,Medio
 4101,La Serena,Medio
-4203,Los Vilos,Bajo
+4203,Los Vilos,Medio
 4303,Monte Patria,Medio
 4301,Ovalle,Medio
 4105,Paihuano,Medio
 4304,Punitaqui,Medio
 4305,Río Hurtado,Medio
-4204,Salamanca,Bajo
+4204,Salamanca,Medio
 4106,Vicuña,Medio
 5602,Algarrobo,Bajo
 5402,Cabildo,Bajo

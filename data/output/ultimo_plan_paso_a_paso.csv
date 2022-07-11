@@ -4,12 +4,12 @@ codigo,nombre,paso_a_paso
 15202,General Lagos,Medio
 15201,Putre,Medio
 1107,Alto Hospicio,Medio
-1402,Camiña,Bajo
-1403,Colchane,Bajo
-1404,Huara,Bajo
+1402,Camiña,Medio
+1403,Colchane,Medio
+1404,Huara,Medio
 1101,Iquique,Medio
-1405,Pica,Bajo
-1401,Pozo Almonte,Bajo
+1405,Pica,Medio
+1401,Pozo Almonte,Medio
 2101,Antofagasta,Medio
 2201,Calama,Medio
 2302,María Elena,Medio
@@ -250,36 +250,36 @@ codigo,nombre,paso_a_paso
 8111,Tomé,Medio
 8312,Tucapel,Bajo
 8313,Yumbel,Bajo
-9201,Angol,Bajo
+9201,Angol,Medio
 9102,Carahue,Medio
 9121,Cholchol,Medio
-9202,Collipulli,Bajo
+9202,Collipulli,Medio
 9103,Cunco,Medio
-9203,Curacautín,Bajo
+9203,Curacautín,Medio
 9104,Curarrehue,Medio
-9204,Ercilla,Bajo
+9204,Ercilla,Medio
 9105,Freire,Medio
 9106,Galvarino,Medio
 9107,Gorbea,Medio
 9108,Lautaro,Medio
 9109,Loncoche,Medio
-9205,Lonquimay,Bajo
-9206,Los Sauces,Bajo
-9207,Lumaco,Bajo
+9205,Lonquimay,Medio
+9206,Los Sauces,Medio
+9207,Lumaco,Medio
 9110,Melipeuco,Medio
 9111,Nueva Imperial,Medio
 9112,Padre Las Casas,Medio
 9113,Perquenco,Medio
 9114,Pitrufquén,Medio
 9115,Pucón,Medio
-9208,Purén,Bajo
-9209,Renaico,Bajo
+9208,Purén,Medio
+9209,Renaico,Medio
 9116,Saavedra,Medio
 9101,Temuco,Medio
 9117,Teodoro Schmidt,Medio
 9118,Toltén,Medio
-9210,Traiguén,Bajo
-9211,Victoria,Bajo
+9210,Traiguén,Medio
+9211,Victoria,Medio
 9119,Vilcún,Medio
 9120,Villarrica,Medio
 14102,Corral,Medio
@@ -337,10 +337,10 @@ codigo,nombre,paso_a_paso
 12202,Antártica,Bajo
 12201,Cabo de Hornos,Bajo
 12102,Laguna Blanca,Bajo
-12401,Natales,Bajo
+12401,Natales,Medio
 12301,Porvenir,Medio
 12302,Primavera,Medio
-12101,Punta Arenas,Bajo
+12101,Punta Arenas,Medio
 12103,Río Verde,Bajo
 12104,San Gregorio,Bajo
 12303,Timaukel,Medio

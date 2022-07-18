@@ -21,9 +21,9 @@ codigo,nombre,paso_a_paso
 2301,Tocopilla,Medio
 3302,Alto del Carmen,Medio
 3102,Caldera,Medio
-3201,Chañaral,Bajo
+3201,Chañaral,Medio
 3101,Copiapó,Medio
-3202,Diego de Almagro,Bajo
+3202,Diego de Almagro,Medio
 3303,Freirina,Medio
 3304,Huasco,Medio
 3103,Tierra Amarilla,Medio
@@ -217,10 +217,10 @@ codigo,nombre,paso_a_paso
 16305,San Nicolás,Bajo
 16207,Trehuaco,Bajo
 16109,Yungay,Bajo
-8314,Alto Biobío,Bajo
-8302,Antuco,Bajo
+8314,Alto Biobío,Medio
+8302,Antuco,Medio
 8202,Arauco,Medio
-8303,Cabrero,Bajo
+8303,Cabrero,Medio
 8203,Cañete,Medio
 8103,Chiguayante,Medio
 8101,Concepción,Medio
@@ -230,26 +230,26 @@ codigo,nombre,paso_a_paso
 8104,Florida,Medio
 8112,Hualpén,Medio
 8105,Hualqui,Medio
-8304,Laja,Bajo
+8304,Laja,Medio
 8201,Lebu,Medio
 8206,Los Álamos,Medio
-8301,Los Ángeles,Bajo
+8301,Los Ángeles,Medio
 8106,Lota,Medio
-8305,Mulchén,Bajo
-8306,Nacimiento,Bajo
-8307,Negrete,Bajo
+8305,Mulchén,Medio
+8306,Nacimiento,Medio
+8307,Negrete,Medio
 8107,Penco,Medio
-8308,Quilaco,Bajo
-8309,Quilleco,Bajo
+8308,Quilaco,Medio
+8309,Quilleco,Medio
 8108,San Pedro de la Paz,Medio
-8310,San Rosendo,Bajo
-8311,Santa Bárbara,Bajo
+8310,San Rosendo,Medio
+8311,Santa Bárbara,Medio
 8109,Santa Juana,Medio
 8110,Talcahuano,Medio
 8207,Tirúa,Medio
 8111,Tomé,Medio
-8312,Tucapel,Bajo
-8313,Yumbel,Bajo
+8312,Tucapel,Medio
+8313,Yumbel,Medio
 9201,Angol,Medio
 9102,Carahue,Medio
 9121,Cholchol,Medio
@@ -325,7 +325,7 @@ codigo,nombre,paso_a_paso
 10306,San Juan de la Costa,Medio
 10307,San Pablo,Medio
 11201,Aysén,Medio
-11401,Chile Chico,Bajo
+11401,Chile Chico,Medio
 11202,Cisnes,Bajo
 11301,Cochrane,Bajo
 11101,Coyhaique,Medio

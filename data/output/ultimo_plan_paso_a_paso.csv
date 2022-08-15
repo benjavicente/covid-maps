@@ -43,16 +43,16 @@ codigo,nombre,paso_a_paso
 4305,Río Hurtado,Medio
 4204,Salamanca,Medio
 4106,Vicuña,Medio
-5602,Algarrobo,Bajo
+5602,Algarrobo,Medio
 5402,Cabildo,Bajo
 5502,La Calera,Medio
 5302,Calle Larga,Bajo
-5603,Cartagena,Bajo
+5603,Cartagena,Medio
 5102,Casablanca,Medio
 5702,Catemu,Medio
 5103,Concón,Medio
-5604,El Quisco,Bajo
-5605,El Tabo,Bajo
+5604,El Quisco,Medio
+5605,El Tabo,Medio
 5503,Hijuelas,Medio
 5201,Isla de Pascua,Medio
 5104,Juan Fernández,Bajo
@@ -72,11 +72,11 @@ codigo,nombre,paso_a_paso
 5801,Quilpué,Medio
 5107,Quintero,Medio
 5303,Rinconada,Bajo
-5601,San Antonio,Bajo
+5601,San Antonio,Medio
 5304,San Esteban,Bajo
 5701,San Felipe,Medio
 5706,Santa Maria,Medio
-5606,Santo Domingo,Bajo
+5606,Santo Domingo,Medio
 5101,Valparaiso,Medio
 5804,Villa Alemana,Medio
 5109,Viña del Mar,Medio

@@ -46,7 +46,7 @@ codigo,nombre,paso_a_paso
 5602,Algarrobo,Medio
 5402,Cabildo,Bajo
 5502,La Calera,Medio
-5302,Calle Larga,Bajo
+5302,Calle Larga,Medio
 5603,Cartagena,Medio
 5102,Casablanca,Medio
 5702,Catemu,Medio
@@ -60,7 +60,7 @@ codigo,nombre,paso_a_paso
 5401,La Ligua,Bajo
 5802,Limache,Medio
 5703,Llay-Llay,Medio
-5301,Los Andes,Bajo
+5301,Los Andes,Medio
 5506,Nogales,Medio
 5803,Olmué,Medio
 5704,Panquehue,Medio
@@ -71,9 +71,9 @@ codigo,nombre,paso_a_paso
 5501,Quillota,Medio
 5801,Quilpué,Medio
 5107,Quintero,Medio
-5303,Rinconada,Bajo
+5303,Rinconada,Medio
 5601,San Antonio,Medio
-5304,San Esteban,Bajo
+5304,San Esteban,Medio
 5701,San Felipe,Medio
 5706,Santa Maria,Medio
 5606,Santo Domingo,Medio
@@ -326,7 +326,7 @@ codigo,nombre,paso_a_paso
 10307,San Pablo,Medio
 11201,Aysén,Medio
 11401,Chile Chico,Medio
-11202,Cisnes,Bajo
+11202,Cisnes,Medio
 11301,Cochrane,Bajo
 11101,Coyhaique,Medio
 11203,Guaitecas,Bajo

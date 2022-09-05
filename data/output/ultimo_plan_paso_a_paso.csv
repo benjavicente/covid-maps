@@ -10,15 +10,15 @@ codigo,nombre,paso_a_paso
 1101,Iquique,Bajo
 1405,Pica,Medio
 1401,Pozo Almonte,Medio
-2101,Antofagasta,Medio
+2101,Antofagasta,Bajo
 2201,Calama,Medio
-2302,María Elena,Medio
-2102,Mejillones,Medio
+2302,María Elena,Bajo
+2102,Mejillones,Bajo
 2202,Ollagüe,Medio
 2203,San Pedro de Atacama,Medio
-2103,Sierra Gorda,Medio
-2104,Taltal,Medio
-2301,Tocopilla,Medio
+2103,Sierra Gorda,Bajo
+2104,Taltal,Bajo
+2301,Tocopilla,Bajo
 3302,Alto del Carmen,Medio
 3102,Caldera,Medio
 3201,Chañaral,Medio
@@ -28,24 +28,23 @@ codigo,nombre,paso_a_paso
 3304,Huasco,Medio
 3103,Tierra Amarilla,Medio
 3301,Vallenar,Medio
-4103,Andacollo,Medio
+4103,Andacollo,Bajo
 4202,Canela,Medio
 4302,Combarbalá,Medio
-4102,Coquimbo,Medio
+4102,Coquimbo,Bajo
 4201,Illapel,Medio
-4104,La Higuera,Medio
-4101,La Serena,Medio
+4104,La Higuera,Bajo
+4101,La Serena,Bajo
 4203,Los Vilos,Medio
 4303,Monte Patria,Medio
 4301,Ovalle,Medio
-4105,Paihuano,Medio
+4105,Paihuano,Bajo
 4304,Punitaqui,Medio
 4305,Río Hurtado,Medio
 4204,Salamanca,Medio
-4106,Vicuña,Medio
+4106,Vicuña,Bajo
 5602,Algarrobo,Medio
 5402,Cabildo,Bajo
-5502,La Calera,Medio
 5302,Calle Larga,Medio
 5603,Cartagena,Medio
 5102,Casablanca,Medio
@@ -53,22 +52,23 @@ codigo,nombre,paso_a_paso
 5103,Concón,Medio
 5604,El Quisco,Medio
 5605,El Tabo,Medio
-5503,Hijuelas,Medio
+5503,Hijuelas,Bajo
 5201,Isla de Pascua,Medio
-5104,Juan Fernández,Bajo
-5504,La Cruz,Medio
+5104,Juan Fernández,Medio
+5502,La Calera,Bajo
+5504,La Cruz,Bajo
 5401,La Ligua,Bajo
 5802,Limache,Medio
 5703,Llay-Llay,Medio
 5301,Los Andes,Medio
-5506,Nogales,Medio
+5506,Nogales,Bajo
 5803,Olmué,Medio
 5704,Panquehue,Medio
 5403,Papudo,Bajo
 5404,Petorca,Bajo
 5105,Puchuncaví,Medio
 5705,Putaendo,Medio
-5501,Quillota,Medio
+5501,Quillota,Bajo
 5801,Quilpué,Medio
 5107,Quintero,Medio
 5303,Rinconada,Medio
@@ -171,29 +171,29 @@ codigo,nombre,paso_a_paso
 7402,Colbún,Medio
 7102,Constitución,Medio
 7103,Curepto,Medio
-7301,Curicó,Medio
+7301,Curicó,Bajo
 7104,Empedrado,Medio
-7302,Hualañé,Medio
-7303,Licantén,Medio
+7302,Hualañé,Bajo
+7303,Licantén,Bajo
 7401,Linares,Medio
 7403,Longaví,Medio
 7105,Maule,Medio
-7304,Molina,Medio
+7304,Molina,Bajo
 7404,Parral,Medio
 7106,Pelarco,Medio
 7203,Pelluhue,Medio
 7107,Pencahue,Medio
-7305,Rauco,Medio
+7305,Rauco,Bajo
 7405,Retiro,Medio
 7108,Río Claro,Medio
-7306,Romeral,Medio
-7307,Sagrada Familia,Medio
+7306,Romeral,Bajo
+7307,Sagrada Familia,Bajo
 7109,San Clemente,Medio
 7406,San Javier,Medio
 7110,San Rafael,Medio
 7101,Talca,Medio
-7308,Teno,Medio
-7309,Vichuquén,Medio
+7308,Teno,Bajo
+7309,Vichuquén,Bajo
 7407,Villa Alegre,Medio
 7408,Yerbas Buenas,Medio
 16102,Bulnes,Medio
@@ -250,36 +250,36 @@ codigo,nombre,paso_a_paso
 8111,Tomé,Medio
 8312,Tucapel,Bajo
 8313,Yumbel,Bajo
-9201,Angol,Medio
+9201,Angol,Bajo
 9102,Carahue,Medio
 9121,Cholchol,Medio
-9202,Collipulli,Medio
+9202,Collipulli,Bajo
 9103,Cunco,Medio
-9203,Curacautín,Medio
+9203,Curacautín,Bajo
 9104,Curarrehue,Medio
-9204,Ercilla,Medio
+9204,Ercilla,Bajo
 9105,Freire,Medio
 9106,Galvarino,Medio
 9107,Gorbea,Medio
 9108,Lautaro,Medio
 9109,Loncoche,Medio
-9205,Lonquimay,Medio
-9206,Los Sauces,Medio
-9207,Lumaco,Medio
+9205,Lonquimay,Bajo
+9206,Los Sauces,Bajo
+9207,Lumaco,Bajo
 9110,Melipeuco,Medio
 9111,Nueva Imperial,Medio
 9112,Padre Las Casas,Medio
 9113,Perquenco,Medio
 9114,Pitrufquén,Medio
 9115,Pucón,Medio
-9208,Purén,Medio
-9209,Renaico,Medio
+9208,Purén,Bajo
+9209,Renaico,Bajo
 9116,Saavedra,Medio
 9101,Temuco,Medio
 9117,Teodoro Schmidt,Medio
 9118,Toltén,Medio
-9210,Traiguén,Medio
-9211,Victoria,Medio
+9210,Traiguén,Bajo
+9211,Victoria,Bajo
 9119,Vilcún,Medio
 9120,Villarrica,Medio
 14102,Corral,Medio
@@ -294,14 +294,14 @@ codigo,nombre,paso_a_paso
 14108,Panguipulli,Medio
 14204,Río Bueno,Medio
 14101,Valdivia,Medio
-10202,Ancud,Medio
+10202,Ancud,Bajo
 10102,Calbuco,Medio
-10201,Castro,Medio
+10201,Castro,Bajo
 10401,Chaitén,Medio
-10203,Chonchi,Medio
+10203,Chonchi,Bajo
 10103,Cochamó,Medio
-10204,Curaco de Vélez,Medio
-10205,Dalcahue,Medio
+10204,Curaco de Vélez,Bajo
+10205,Dalcahue,Bajo
 10104,Fresia,Medio
 10105,Frutillar,Medio
 10402,Futaleufú,Medio
@@ -314,13 +314,13 @@ codigo,nombre,paso_a_paso
 10101,Puerto Montt,Medio
 10302,Puerto Octay,Medio
 10109,Puerto Varas,Medio
-10206,Puqueldón,Medio
+10206,Puqueldón,Bajo
 10303,Purranque,Medio
 10304,Puyehue,Medio
-10207,Queilén,Medio
-10208,Quellón,Medio
-10209,Quemchi,Medio
-10210,Quinchao,Medio
+10207,Queilén,Bajo
+10208,Quellón,Bajo
+10209,Quemchi,Bajo
+10210,Quinchao,Bajo
 10305,Río Negro,Medio
 10306,San Juan de la Costa,Medio
 10307,San Pablo,Medio

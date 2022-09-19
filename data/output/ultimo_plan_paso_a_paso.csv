@@ -4,30 +4,30 @@ codigo,nombre,paso_a_paso
 15202,General Lagos,Medio
 15201,Putre,Medio
 1107,Alto Hospicio,Bajo
-1402,Camiña,Medio
-1403,Colchane,Medio
-1404,Huara,Medio
+1402,Camiña,Bajo
+1403,Colchane,Bajo
+1404,Huara,Bajo
 1101,Iquique,Bajo
-1405,Pica,Medio
-1401,Pozo Almonte,Medio
+1405,Pica,Bajo
+1401,Pozo Almonte,Bajo
 2101,Antofagasta,Bajo
-2201,Calama,Medio
+2201,Calama,Bajo
 2302,María Elena,Bajo
 2102,Mejillones,Bajo
-2202,Ollagüe,Medio
-2203,San Pedro de Atacama,Medio
+2202,Ollagüe,Bajo
+2203,San Pedro de Atacama,Bajo
 2103,Sierra Gorda,Bajo
 2104,Taltal,Bajo
 2301,Tocopilla,Bajo
-3302,Alto del Carmen,Medio
+3302,Alto del Carmen,Bajo
 3102,Caldera,Medio
-3201,Chañaral,Medio
+3201,Chañaral,Bajo
 3101,Copiapó,Medio
-3202,Diego de Almagro,Medio
-3303,Freirina,Medio
-3304,Huasco,Medio
+3202,Diego de Almagro,Bajo
+3303,Freirina,Bajo
+3304,Huasco,Bajo
 3103,Tierra Amarilla,Medio
-3301,Vallenar,Medio
+3301,Vallenar,Bajo
 4103,Andacollo,Bajo
 4202,Canela,Medio
 4302,Combarbalá,Medio
@@ -135,36 +135,36 @@ codigo,nombre,paso_a_paso
 13132,Vitacura,Bajo
 6302,Chépica,Medio
 6303,Chimbarongo,Medio
-6102,Codegua,Medio
-6103,Coinco,Medio
-6104,Coltauco,Medio
-6105,Doñihue,Medio
-6106,Graneros,Medio
+6102,Codegua,Bajo
+6103,Coinco,Bajo
+6104,Coltauco,Bajo
+6105,Doñihue,Bajo
+6106,Graneros,Bajo
 6202,La Estrella,Bajo
-6107,Las Cabras,Medio
+6107,Las Cabras,Bajo
 6203,Litueche,Bajo
 6304,Lolol,Medio
-6108,Machalí,Medio
-6109,Malloa,Medio
+6108,Machalí,Bajo
+6109,Malloa,Bajo
 6204,Marchihue,Bajo
-6110,Mostazal,Medio
+6110,Mostazal,Bajo
 6305,Nancagua,Medio
 6205,Navidad,Bajo
-6111,Olivar,Medio
+6111,Olivar,Bajo
 6306,Palmilla,Medio
 6206,Paredones,Bajo
 6307,Peralillo,Medio
-6112,Peumo,Medio
-6113,Pichidegua,Medio
+6112,Peumo,Bajo
+6113,Pichidegua,Bajo
 6201,Pichilemu,Bajo
 6308,Placilla,Medio
 6309,Pumanque,Medio
-6114,Quinta de Tilcoco,Medio
-6101,Rancagua,Medio
-6115,Rengo,Medio
-6116,Requínoa,Medio
+6114,Quinta de Tilcoco,Bajo
+6101,Rancagua,Bajo
+6115,Rengo,Bajo
+6116,Requínoa,Bajo
 6301,San Fernando,Medio
-6117,San Vicente,Medio
+6117,San Vicente,Bajo
 6310,Santa Cruz,Medio
 7201,Cauquenes,Medio
 7202,Chanco,Medio
@@ -282,18 +282,18 @@ codigo,nombre,paso_a_paso
 9211,Victoria,Bajo
 9119,Vilcún,Medio
 9120,Villarrica,Medio
-14102,Corral,Medio
-14202,Futrono,Medio
-14201,La Unión,Medio
-14203,Lago Ranco,Medio
-14103,Lanco,Medio
-14104,Los Lagos,Medio
-14105,Máfil,Medio
-14106,Mariquina,Medio
-14107,Paillaco,Medio
-14108,Panguipulli,Medio
-14204,Río Bueno,Medio
-14101,Valdivia,Medio
+14102,Corral,Bajo
+14202,Futrono,Bajo
+14201,La Unión,Bajo
+14203,Lago Ranco,Bajo
+14103,Lanco,Bajo
+14104,Los Lagos,Bajo
+14105,Máfil,Bajo
+14106,Mariquina,Bajo
+14107,Paillaco,Bajo
+14108,Panguipulli,Bajo
+14204,Río Bueno,Bajo
+14101,Valdivia,Bajo
 10202,Ancud,Bajo
 10102,Calbuco,Bajo
 10201,Castro,Bajo
@@ -324,9 +324,9 @@ codigo,nombre,paso_a_paso
 10305,Río Negro,Medio
 10306,San Juan de la Costa,Medio
 10307,San Pablo,Medio
-11201,Aysén,Medio
-11401,Chile Chico,Medio
-11202,Cisnes,Medio
+11201,Aysén,Bajo
+11401,Chile Chico,Bajo
+11202,Cisnes,Bajo
 11301,Cochrane,Bajo
 11101,Coyhaique,Bajo
 11203,Guaitecas,Bajo
@@ -337,7 +337,7 @@ codigo,nombre,paso_a_paso
 12202,Antártica,Bajo
 12201,Cabo de Hornos,Bajo
 12102,Laguna Blanca,Bajo
-12401,Natales,Medio
+12401,Natales,Bajo
 12301,Porvenir,Medio
 12302,Primavera,Medio
 12101,Punta Arenas,Bajo

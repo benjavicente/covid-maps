@@ -1,347 +1,347 @@
 codigo,nombre,paso_a_paso
-15101,Arica,Bajo
-15102,Camarones,Bajo
-15202,General Lagos,Bajo
-15201,Putre,Bajo
-1107,Alto Hospicio,Bajo
-1402,Camiña,Bajo
-1403,Colchane,Bajo
-1404,Huara,Bajo
-1101,Iquique,Bajo
-1405,Pica,Bajo
-1401,Pozo Almonte,Bajo
-2101,Antofagasta,Bajo
-2201,Calama,Bajo
-2302,María Elena,Bajo
-2102,Mejillones,Bajo
-2202,Ollagüe,Bajo
-2203,San Pedro de Atacama,Bajo
-2103,Sierra Gorda,Bajo
-2104,Taltal,Bajo
-2301,Tocopilla,Bajo
-3302,Alto del Carmen,Bajo
-3102,Caldera,Bajo
-3201,Chañaral,Bajo
-3101,Copiapó,Bajo
-3202,Diego de Almagro,Bajo
-3303,Freirina,Bajo
-3304,Huasco,Bajo
-3103,Tierra Amarilla,Bajo
-3301,Vallenar,Bajo
-4103,Andacollo,Bajo
-4202,Canela,Bajo
-4302,Combarbalá,Bajo
-4102,Coquimbo,Bajo
-4201,Illapel,Bajo
-4104,La Higuera,Bajo
-4101,La Serena,Bajo
-4203,Los Vilos,Bajo
-4303,Monte Patria,Bajo
-4301,Ovalle,Bajo
-4105,Paihuano,Bajo
-4304,Punitaqui,Bajo
-4305,Río Hurtado,Bajo
-4204,Salamanca,Bajo
-4106,Vicuña,Bajo
-5602,Algarrobo,Bajo
-5402,Cabildo,Bajo
-5302,Calle Larga,Bajo
-5603,Cartagena,Bajo
-5102,Casablanca,Bajo
-5702,Catemu,Bajo
-5103,Concón,Bajo
-5604,El Quisco,Bajo
-5605,El Tabo,Bajo
-5503,Hijuelas,Bajo
-5201,Isla de Pascua,Medio
+15101,Arica,Escenario de Apertura
+15102,Camarones,Escenario de Apertura
+15202,General Lagos,Escenario de Apertura
+15201,Putre,Escenario de Apertura
+1107,Alto Hospicio,Escenario de Apertura
+1402,Camiña,Escenario de Apertura
+1403,Colchane,Escenario de Apertura
+1404,Huara,Escenario de Apertura
+1101,Iquique,Escenario de Apertura
+1405,Pica,Escenario de Apertura
+1401,Pozo Almonte,Escenario de Apertura
+2101,Antofagasta,Escenario de Apertura
+2201,Calama,Escenario de Apertura
+2302,María Elena,Escenario de Apertura
+2102,Mejillones,Escenario de Apertura
+2202,Ollagüe,Escenario de Apertura
+2203,San Pedro de Atacama,Escenario de Apertura
+2103,Sierra Gorda,Escenario de Apertura
+2104,Taltal,Escenario de Apertura
+2301,Tocopilla,Escenario de Apertura
+3302,Alto del Carmen,Escenario de Apertura
+3102,Caldera,Escenario de Apertura
+3201,Chañaral,Escenario de Apertura
+3101,Copiapó,Escenario de Apertura
+3202,Diego de Almagro,Escenario de Apertura
+3303,Freirina,Escenario de Apertura
+3304,Huasco,Escenario de Apertura
+3103,Tierra Amarilla,Escenario de Apertura
+3301,Vallenar,Escenario de Apertura
+4103,Andacollo,Escenario de Apertura
+4202,Canela,Escenario de Apertura
+4302,Combarbalá,Escenario de Apertura
+4102,Coquimbo,Escenario de Apertura
+4201,Illapel,Escenario de Apertura
+4104,La Higuera,Escenario de Apertura
+4101,La Serena,Escenario de Apertura
+4203,Los Vilos,Escenario de Apertura
+4303,Monte Patria,Escenario de Apertura
+4301,Ovalle,Escenario de Apertura
+4105,Paihuano,Escenario de Apertura
+4304,Punitaqui,Escenario de Apertura
+4305,Río Hurtado,Escenario de Apertura
+4204,Salamanca,Escenario de Apertura
+4106,Vicuña,Escenario de Apertura
+5602,Algarrobo,Escenario de Apertura
+5402,Cabildo,Escenario de Apertura
+5302,Calle Larga,Escenario de Apertura
+5603,Cartagena,Escenario de Apertura
+5102,Casablanca,Escenario de Apertura
+5702,Catemu,Escenario de Apertura
+5103,Concón,Escenario de Apertura
+5604,El Quisco,Escenario de Apertura
+5605,El Tabo,Escenario de Apertura
+5503,Hijuelas,Escenario de Apertura
+5201,Isla de Pascua,Escenario de Apertura
 5104,Juan Fernández,Medio
-5502,La Calera,Bajo
-5504,La Cruz,Bajo
-5401,La Ligua,Bajo
-5802,Limache,Bajo
-5703,Llay-Llay,Bajo
-5301,Los Andes,Bajo
-5506,Nogales,Bajo
-5803,Olmué,Bajo
-5704,Panquehue,Bajo
-5403,Papudo,Bajo
-5404,Petorca,Bajo
-5105,Puchuncaví,Bajo
-5705,Putaendo,Bajo
-5501,Quillota,Bajo
-5801,Quilpué,Bajo
-5107,Quintero,Bajo
-5303,Rinconada,Bajo
-5601,San Antonio,Bajo
-5304,San Esteban,Bajo
-5701,San Felipe,Bajo
-5706,Santa Maria,Bajo
-5606,Santo Domingo,Bajo
-5101,Valparaiso,Bajo
-5804,Villa Alemana,Bajo
-5109,Viña del Mar,Bajo
-5405,Zapallar,Bajo
-13502,Alhué,Bajo
-13402,Buin,Bajo
-13403,Calera de Tango,Bajo
-13102,Cerrillos,Bajo
-13103,Cerro Navia,Bajo
-13301,Colina,Bajo
-13104,Conchalí,Bajo
-13503,Curacaví,Bajo
-13105,El Bosque,Bajo
-13602,El Monte,Bajo
-13106,Estación Central,Bajo
-13107,Huechuraba,Bajo
-13108,Independencia,Bajo
-13603,Isla de Maipo,Bajo
-13109,La Cisterna,Bajo
-13110,La Florida,Bajo
-13111,La Granja,Bajo
-13112,La Pintana,Bajo
-13113,La Reina,Bajo
-13302,Lampa,Bajo
-13114,Las Condes,Bajo
-13115,Lo Barnechea,Bajo
-13116,Lo Espejo,Bajo
-13117,Lo Prado,Bajo
-13118,Macul,Bajo
-13119,Maipú,Bajo
-13504,María Pinto,Bajo
-13501,Melipilla,Bajo
-13120,Ñuñoa,Bajo
-13604,Padre Hurtado,Bajo
-13404,Paine,Bajo
-13121,Pedro Aguirre Cerda,Bajo
-13605,Peñaflor,Bajo
-13122,Peñalolén,Bajo
-13202,Pirque,Bajo
-13123,Providencia,Bajo
-13124,Pudahuel,Bajo
-13201,Puente Alto,Bajo
-13125,Quilicura,Bajo
-13126,Quinta Normal,Bajo
-13127,Recoleta,Bajo
-13128,Renca,Bajo
-13401,San Bernardo,Bajo
-13129,San Joaquín,Bajo
-13203,San José de Maipo,Bajo
-13130,San Miguel,Bajo
-13505,San Pedro,Bajo
-13131,San Ramón,Bajo
-13101,Santiago,Bajo
-13601,Talagante,Bajo
-13303,Til Til,Bajo
-13132,Vitacura,Bajo
-6302,Chépica,Bajo
-6303,Chimbarongo,Bajo
-6102,Codegua,Bajo
-6103,Coinco,Bajo
-6104,Coltauco,Bajo
-6105,Doñihue,Bajo
-6106,Graneros,Bajo
-6202,La Estrella,Bajo
-6107,Las Cabras,Bajo
-6203,Litueche,Bajo
-6304,Lolol,Bajo
-6108,Machalí,Bajo
-6109,Malloa,Bajo
-6204,Marchihue,Bajo
-6110,Mostazal,Bajo
-6305,Nancagua,Bajo
-6205,Navidad,Bajo
-6111,Olivar,Bajo
-6306,Palmilla,Bajo
-6206,Paredones,Bajo
-6307,Peralillo,Bajo
-6112,Peumo,Bajo
-6113,Pichidegua,Bajo
-6201,Pichilemu,Bajo
-6308,Placilla,Bajo
-6309,Pumanque,Bajo
-6114,Quinta de Tilcoco,Bajo
-6101,Rancagua,Bajo
-6115,Rengo,Bajo
-6116,Requínoa,Bajo
-6301,San Fernando,Bajo
-6117,San Vicente,Bajo
-6310,Santa Cruz,Bajo
-7201,Cauquenes,Bajo
-7202,Chanco,Bajo
-7402,Colbún,Bajo
-7102,Constitución,Bajo
-7103,Curepto,Bajo
-7301,Curicó,Bajo
-7104,Empedrado,Bajo
-7302,Hualañé,Bajo
-7303,Licantén,Bajo
-7401,Linares,Bajo
-7403,Longaví,Bajo
-7105,Maule,Bajo
-7304,Molina,Bajo
-7404,Parral,Bajo
-7106,Pelarco,Bajo
-7203,Pelluhue,Bajo
-7107,Pencahue,Bajo
-7305,Rauco,Bajo
-7405,Retiro,Bajo
-7108,Río Claro,Bajo
-7306,Romeral,Bajo
-7307,Sagrada Familia,Bajo
-7109,San Clemente,Bajo
-7406,San Javier,Bajo
-7110,San Rafael,Bajo
-7101,Talca,Bajo
-7308,Teno,Bajo
-7309,Vichuquén,Bajo
-7407,Villa Alegre,Bajo
-7408,Yerbas Buenas,Bajo
-16102,Bulnes,Bajo
-16101,Chillán,Bajo
-16103,Chillán Viejo,Bajo
-16202,Cobquecura,Bajo
-16203,Coelemu,Bajo
-16302,Coihueco,Bajo
-16104,El Carmen,Bajo
-16204,Ninhue,Bajo
-16303,Ñiquén,Bajo
-16105,Pemuco,Bajo
-16106,Pinto,Bajo
-16205,Portezuelo,Bajo
-16107,Quillón,Bajo
-16201,Quirihue,Bajo
-16206,Ránquil,Bajo
-16301,San Carlos,Bajo
-16304,San Fabián,Bajo
-16108,San Ignacio,Bajo
-16305,San Nicolás,Bajo
-16207,Trehuaco,Bajo
-16109,Yungay,Bajo
-8314,Alto Biobío,Bajo
-8302,Antuco,Bajo
-8202,Arauco,Bajo
-8303,Cabrero,Bajo
-8203,Cañete,Bajo
-8103,Chiguayante,Bajo
-8101,Concepción,Bajo
-8204,Contulmo,Bajo
-8102,Coronel,Bajo
-8205,Curanilahue,Bajo
-8104,Florida,Bajo
-8112,Hualpén,Bajo
-8105,Hualqui,Bajo
-8304,Laja,Bajo
-8201,Lebu,Bajo
-8206,Los Álamos,Bajo
-8301,Los Ángeles,Bajo
-8106,Lota,Bajo
-8305,Mulchén,Bajo
-8306,Nacimiento,Bajo
-8307,Negrete,Bajo
-8107,Penco,Bajo
-8308,Quilaco,Bajo
-8309,Quilleco,Bajo
-8108,San Pedro de la Paz,Bajo
-8310,San Rosendo,Bajo
-8311,Santa Bárbara,Bajo
-8109,Santa Juana,Bajo
-8110,Talcahuano,Bajo
-8207,Tirúa,Bajo
-8111,Tomé,Bajo
-8312,Tucapel,Bajo
-8313,Yumbel,Bajo
-9201,Angol,Bajo
-9102,Carahue,Bajo
-9121,Cholchol,Bajo
-9202,Collipulli,Bajo
-9103,Cunco,Bajo
-9203,Curacautín,Bajo
-9104,Curarrehue,Bajo
-9204,Ercilla,Bajo
-9105,Freire,Bajo
-9106,Galvarino,Bajo
-9107,Gorbea,Bajo
-9108,Lautaro,Bajo
-9109,Loncoche,Bajo
-9205,Lonquimay,Bajo
-9206,Los Sauces,Bajo
-9207,Lumaco,Bajo
-9110,Melipeuco,Bajo
-9111,Nueva Imperial,Bajo
-9112,Padre Las Casas,Bajo
-9113,Perquenco,Bajo
-9114,Pitrufquén,Bajo
-9115,Pucón,Bajo
-9208,Purén,Bajo
-9209,Renaico,Bajo
-9116,Saavedra,Bajo
-9101,Temuco,Bajo
-9117,Teodoro Schmidt,Bajo
-9118,Toltén,Bajo
-9210,Traiguén,Bajo
-9211,Victoria,Bajo
-9119,Vilcún,Bajo
-9120,Villarrica,Bajo
-14102,Corral,Bajo
-14202,Futrono,Bajo
-14201,La Unión,Bajo
-14203,Lago Ranco,Bajo
-14103,Lanco,Bajo
-14104,Los Lagos,Bajo
-14105,Máfil,Bajo
-14106,Mariquina,Bajo
-14107,Paillaco,Bajo
-14108,Panguipulli,Bajo
-14204,Río Bueno,Bajo
-14101,Valdivia,Bajo
-10202,Ancud,Bajo
-10102,Calbuco,Bajo
-10201,Castro,Bajo
-10401,Chaitén,Bajo
-10203,Chonchi,Bajo
-10103,Cochamó,Bajo
-10204,Curaco de Vélez,Bajo
-10205,Dalcahue,Bajo
-10104,Fresia,Bajo
-10105,Frutillar,Bajo
-10402,Futaleufú,Bajo
-10403,Hualaihué,Bajo
-10107,Llanquihue,Bajo
-10106,Los Muermos,Bajo
-10108,Maullín,Bajo
-10301,Osorno,Bajo
-10404,Palena,Bajo
-10101,Puerto Montt,Bajo
-10302,Puerto Octay,Bajo
-10109,Puerto Varas,Bajo
-10206,Puqueldón,Bajo
-10303,Purranque,Bajo
-10304,Puyehue,Bajo
-10207,Queilén,Bajo
-10208,Quellón,Bajo
-10209,Quemchi,Bajo
-10210,Quinchao,Bajo
-10305,Río Negro,Bajo
-10306,San Juan de la Costa,Bajo
-10307,San Pablo,Bajo
-11201,Aysén,Bajo
-11401,Chile Chico,Bajo
-11202,Cisnes,Bajo
-11301,Cochrane,Bajo
-11101,Coyhaique,Bajo
-11203,Guaitecas,Bajo
-11102,Lago Verde,Bajo
-11302,O'Higgins,Bajo
-11402,Río Ibáñez,Bajo
-11303,Tortel,Bajo
-12202,Antártica,Bajo
-12201,Cabo de Hornos,Bajo
-12102,Laguna Blanca,Bajo
-12401,Natales,Bajo
-12301,Porvenir,Bajo
-12302,Primavera,Bajo
-12101,Punta Arenas,Bajo
-12103,Río Verde,Bajo
-12104,San Gregorio,Bajo
-12303,Timaukel,Bajo
-12402,Torres del Paine,Bajo
+5502,La Calera,Escenario de Apertura
+5504,La Cruz,Escenario de Apertura
+5401,La Ligua,Escenario de Apertura
+5802,Limache,Escenario de Apertura
+5703,Llay-Llay,Escenario de Apertura
+5301,Los Andes,Escenario de Apertura
+5506,Nogales,Escenario de Apertura
+5803,Olmué,Escenario de Apertura
+5704,Panquehue,Escenario de Apertura
+5403,Papudo,Escenario de Apertura
+5404,Petorca,Escenario de Apertura
+5105,Puchuncaví,Escenario de Apertura
+5705,Putaendo,Escenario de Apertura
+5501,Quillota,Escenario de Apertura
+5801,Quilpué,Escenario de Apertura
+5107,Quintero,Escenario de Apertura
+5303,Rinconada,Escenario de Apertura
+5601,San Antonio,Escenario de Apertura
+5304,San Esteban,Escenario de Apertura
+5701,San Felipe,Escenario de Apertura
+5706,Santa Maria,Escenario de Apertura
+5606,Santo Domingo,Escenario de Apertura
+5101,Valparaiso,Escenario de Apertura
+5804,Villa Alemana,Escenario de Apertura
+5109,Viña del Mar,Escenario de Apertura
+5405,Zapallar,Escenario de Apertura
+13502,Alhué,Escenario de Apertura
+13402,Buin,Escenario de Apertura
+13403,Calera de Tango,Escenario de Apertura
+13102,Cerrillos,Escenario de Apertura
+13103,Cerro Navia,Escenario de Apertura
+13301,Colina,Escenario de Apertura
+13104,Conchalí,Escenario de Apertura
+13503,Curacaví,Escenario de Apertura
+13105,El Bosque,Escenario de Apertura
+13602,El Monte,Escenario de Apertura
+13106,Estación Central,Escenario de Apertura
+13107,Huechuraba,Escenario de Apertura
+13108,Independencia,Escenario de Apertura
+13603,Isla de Maipo,Escenario de Apertura
+13109,La Cisterna,Escenario de Apertura
+13110,La Florida,Escenario de Apertura
+13111,La Granja,Escenario de Apertura
+13112,La Pintana,Escenario de Apertura
+13113,La Reina,Escenario de Apertura
+13302,Lampa,Escenario de Apertura
+13114,Las Condes,Escenario de Apertura
+13115,Lo Barnechea,Escenario de Apertura
+13116,Lo Espejo,Escenario de Apertura
+13117,Lo Prado,Escenario de Apertura
+13118,Macul,Escenario de Apertura
+13119,Maipú,Escenario de Apertura
+13504,María Pinto,Escenario de Apertura
+13501,Melipilla,Escenario de Apertura
+13120,Ñuñoa,Escenario de Apertura
+13604,Padre Hurtado,Escenario de Apertura
+13404,Paine,Escenario de Apertura
+13121,Pedro Aguirre Cerda,Escenario de Apertura
+13605,Peñaflor,Escenario de Apertura
+13122,Peñalolén,Escenario de Apertura
+13202,Pirque,Escenario de Apertura
+13123,Providencia,Escenario de Apertura
+13124,Pudahuel,Escenario de Apertura
+13201,Puente Alto,Escenario de Apertura
+13125,Quilicura,Escenario de Apertura
+13126,Quinta Normal,Escenario de Apertura
+13127,Recoleta,Escenario de Apertura
+13128,Renca,Escenario de Apertura
+13401,San Bernardo,Escenario de Apertura
+13129,San Joaquín,Escenario de Apertura
+13203,San José de Maipo,Escenario de Apertura
+13130,San Miguel,Escenario de Apertura
+13505,San Pedro,Escenario de Apertura
+13131,San Ramón,Escenario de Apertura
+13101,Santiago,Escenario de Apertura
+13601,Talagante,Escenario de Apertura
+13303,Til Til,Escenario de Apertura
+13132,Vitacura,Escenario de Apertura
+6302,Chépica,Escenario de Apertura
+6303,Chimbarongo,Escenario de Apertura
+6102,Codegua,Escenario de Apertura
+6103,Coinco,Escenario de Apertura
+6104,Coltauco,Escenario de Apertura
+6105,Doñihue,Escenario de Apertura
+6106,Graneros,Escenario de Apertura
+6202,La Estrella,Escenario de Apertura
+6107,Las Cabras,Escenario de Apertura
+6203,Litueche,Escenario de Apertura
+6304,Lolol,Escenario de Apertura
+6108,Machalí,Escenario de Apertura
+6109,Malloa,Escenario de Apertura
+6204,Marchihue,Escenario de Apertura
+6110,Mostazal,Escenario de Apertura
+6305,Nancagua,Escenario de Apertura
+6205,Navidad,Escenario de Apertura
+6111,Olivar,Escenario de Apertura
+6306,Palmilla,Escenario de Apertura
+6206,Paredones,Escenario de Apertura
+6307,Peralillo,Escenario de Apertura
+6112,Peumo,Escenario de Apertura
+6113,Pichidegua,Escenario de Apertura
+6201,Pichilemu,Escenario de Apertura
+6308,Placilla,Escenario de Apertura
+6309,Pumanque,Escenario de Apertura
+6114,Quinta de Tilcoco,Escenario de Apertura
+6101,Rancagua,Escenario de Apertura
+6115,Rengo,Escenario de Apertura
+6116,Requínoa,Escenario de Apertura
+6301,San Fernando,Escenario de Apertura
+6117,San Vicente,Escenario de Apertura
+6310,Santa Cruz,Escenario de Apertura
+7201,Cauquenes,Escenario de Apertura
+7202,Chanco,Escenario de Apertura
+7402,Colbún,Escenario de Apertura
+7102,Constitución,Escenario de Apertura
+7103,Curepto,Escenario de Apertura
+7301,Curicó,Escenario de Apertura
+7104,Empedrado,Escenario de Apertura
+7302,Hualañé,Escenario de Apertura
+7303,Licantén,Escenario de Apertura
+7401,Linares,Escenario de Apertura
+7403,Longaví,Escenario de Apertura
+7105,Maule,Escenario de Apertura
+7304,Molina,Escenario de Apertura
+7404,Parral,Escenario de Apertura
+7106,Pelarco,Escenario de Apertura
+7203,Pelluhue,Escenario de Apertura
+7107,Pencahue,Escenario de Apertura
+7305,Rauco,Escenario de Apertura
+7405,Retiro,Escenario de Apertura
+7108,Río Claro,Escenario de Apertura
+7306,Romeral,Escenario de Apertura
+7307,Sagrada Familia,Escenario de Apertura
+7109,San Clemente,Escenario de Apertura
+7406,San Javier,Escenario de Apertura
+7110,San Rafael,Escenario de Apertura
+7101,Talca,Escenario de Apertura
+7308,Teno,Escenario de Apertura
+7309,Vichuquén,Escenario de Apertura
+7407,Villa Alegre,Escenario de Apertura
+7408,Yerbas Buenas,Escenario de Apertura
+16102,Bulnes,Escenario de Apertura
+16101,Chillán,Escenario de Apertura
+16103,Chillán Viejo,Escenario de Apertura
+16202,Cobquecura,Escenario de Apertura
+16203,Coelemu,Escenario de Apertura
+16302,Coihueco,Escenario de Apertura
+16104,El Carmen,Escenario de Apertura
+16204,Ninhue,Escenario de Apertura
+16303,Ñiquén,Escenario de Apertura
+16105,Pemuco,Escenario de Apertura
+16106,Pinto,Escenario de Apertura
+16205,Portezuelo,Escenario de Apertura
+16107,Quillón,Escenario de Apertura
+16201,Quirihue,Escenario de Apertura
+16206,Ránquil,Escenario de Apertura
+16301,San Carlos,Escenario de Apertura
+16304,San Fabián,Escenario de Apertura
+16108,San Ignacio,Escenario de Apertura
+16305,San Nicolás,Escenario de Apertura
+16207,Trehuaco,Escenario de Apertura
+16109,Yungay,Escenario de Apertura
+8314,Alto Biobío,Escenario de Apertura
+8302,Antuco,Escenario de Apertura
+8202,Arauco,Escenario de Apertura
+8303,Cabrero,Escenario de Apertura
+8203,Cañete,Escenario de Apertura
+8103,Chiguayante,Escenario de Apertura
+8101,Concepción,Escenario de Apertura
+8204,Contulmo,Escenario de Apertura
+8102,Coronel,Escenario de Apertura
+8205,Curanilahue,Escenario de Apertura
+8104,Florida,Escenario de Apertura
+8112,Hualpén,Escenario de Apertura
+8105,Hualqui,Escenario de Apertura
+8304,Laja,Escenario de Apertura
+8201,Lebu,Escenario de Apertura
+8206,Los Álamos,Escenario de Apertura
+8301,Los Ángeles,Escenario de Apertura
+8106,Lota,Escenario de Apertura
+8305,Mulchén,Escenario de Apertura
+8306,Nacimiento,Escenario de Apertura
+8307,Negrete,Escenario de Apertura
+8107,Penco,Escenario de Apertura
+8308,Quilaco,Escenario de Apertura
+8309,Quilleco,Escenario de Apertura
+8108,San Pedro de la Paz,Escenario de Apertura
+8310,San Rosendo,Escenario de Apertura
+8311,Santa Bárbara,Escenario de Apertura
+8109,Santa Juana,Escenario de Apertura
+8110,Talcahuano,Escenario de Apertura
+8207,Tirúa,Escenario de Apertura
+8111,Tomé,Escenario de Apertura
+8312,Tucapel,Escenario de Apertura
+8313,Yumbel,Escenario de Apertura
+9201,Angol,Escenario de Apertura
+9102,Carahue,Escenario de Apertura
+9121,Cholchol,Escenario de Apertura
+9202,Collipulli,Escenario de Apertura
+9103,Cunco,Escenario de Apertura
+9203,Curacautín,Escenario de Apertura
+9104,Curarrehue,Escenario de Apertura
+9204,Ercilla,Escenario de Apertura
+9105,Freire,Escenario de Apertura
+9106,Galvarino,Escenario de Apertura
+9107,Gorbea,Escenario de Apertura
+9108,Lautaro,Escenario de Apertura
+9109,Loncoche,Escenario de Apertura
+9205,Lonquimay,Escenario de Apertura
+9206,Los Sauces,Escenario de Apertura
+9207,Lumaco,Escenario de Apertura
+9110,Melipeuco,Escenario de Apertura
+9111,Nueva Imperial,Escenario de Apertura
+9112,Padre Las Casas,Escenario de Apertura
+9113,Perquenco,Escenario de Apertura
+9114,Pitrufquén,Escenario de Apertura
+9115,Pucón,Escenario de Apertura
+9208,Purén,Escenario de Apertura
+9209,Renaico,Escenario de Apertura
+9116,Saavedra,Escenario de Apertura
+9101,Temuco,Escenario de Apertura
+9117,Teodoro Schmidt,Escenario de Apertura
+9118,Toltén,Escenario de Apertura
+9210,Traiguén,Escenario de Apertura
+9211,Victoria,Escenario de Apertura
+9119,Vilcún,Escenario de Apertura
+9120,Villarrica,Escenario de Apertura
+14102,Corral,Escenario de Apertura
+14202,Futrono,Escenario de Apertura
+14201,La Unión,Escenario de Apertura
+14203,Lago Ranco,Escenario de Apertura
+14103,Lanco,Escenario de Apertura
+14104,Los Lagos,Escenario de Apertura
+14105,Máfil,Escenario de Apertura
+14106,Mariquina,Escenario de Apertura
+14107,Paillaco,Escenario de Apertura
+14108,Panguipulli,Escenario de Apertura
+14204,Río Bueno,Escenario de Apertura
+14101,Valdivia,Escenario de Apertura
+10202,Ancud,Escenario de Apertura
+10102,Calbuco,Escenario de Apertura
+10201,Castro,Escenario de Apertura
+10401,Chaitén,Escenario de Apertura
+10203,Chonchi,Escenario de Apertura
+10103,Cochamó,Escenario de Apertura
+10204,Curaco de Vélez,Escenario de Apertura
+10205,Dalcahue,Escenario de Apertura
+10104,Fresia,Escenario de Apertura
+10105,Frutillar,Escenario de Apertura
+10402,Futaleufú,Escenario de Apertura
+10403,Hualaihué,Escenario de Apertura
+10107,Llanquihue,Escenario de Apertura
+10106,Los Muermos,Escenario de Apertura
+10108,Maullín,Escenario de Apertura
+10301,Osorno,Escenario de Apertura
+10404,Palena,Escenario de Apertura
+10101,Puerto Montt,Escenario de Apertura
+10302,Puerto Octay,Escenario de Apertura
+10109,Puerto Varas,Escenario de Apertura
+10206,Puqueldón,Escenario de Apertura
+10303,Purranque,Escenario de Apertura
+10304,Puyehue,Escenario de Apertura
+10207,Queilén,Escenario de Apertura
+10208,Quellón,Escenario de Apertura
+10209,Quemchi,Escenario de Apertura
+10210,Quinchao,Escenario de Apertura
+10305,Río Negro,Escenario de Apertura
+10306,San Juan de la Costa,Escenario de Apertura
+10307,San Pablo,Escenario de Apertura
+11201,Aysén,Escenario de Apertura
+11401,Chile Chico,Escenario de Apertura
+11202,Cisnes,Escenario de Apertura
+11301,Cochrane,Escenario de Apertura
+11101,Coyhaique,Escenario de Apertura
+11203,Guaitecas,Escenario de Apertura
+11102,Lago Verde,Escenario de Apertura
+11302,O'Higgins,Escenario de Apertura
+11402,Río Ibáñez,Escenario de Apertura
+11303,Tortel,Escenario de Apertura
+12202,Antártica,Escenario de Apertura
+12201,Cabo de Hornos,Escenario de Apertura
+12102,Laguna Blanca,Escenario de Apertura
+12401,Natales,Escenario de Apertura
+12301,Porvenir,Escenario de Apertura
+12302,Primavera,Escenario de Apertura
+12101,Punta Arenas,Escenario de Apertura
+12103,Río Verde,Escenario de Apertura
+12104,San Gregorio,Escenario de Apertura
+12303,Timaukel,Escenario de Apertura
+12402,Torres del Paine,Escenario de Apertura
